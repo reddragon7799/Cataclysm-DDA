@@ -825,6 +825,18 @@
     "melee_damage": { "bash": 8 }
   },
   {
+    "id": "usp_9mm_match",
+    "copy-from": "usp_9mm",
+    "type": "GUN",
+    "name": { "str": "USP Match 9x19mm pistol" },
+    "description": "An accurized version of the H&K USP, designed for competition shooting."
+    "price": "1 kUSD 350 USD",
+    "price_postapoc": "30 USD",
+    "dispersion": 360,
+    "blackpowder_tolerance": 40,
+    "default_mods": [ "compensator", "match_trigger", "muzzle_weight" ]
+  },
+  {
     "id": "uzi",
     "copy-from": "smg_base",
     "looks_like": "hk_mp5",

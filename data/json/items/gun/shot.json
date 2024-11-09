@@ -53,6 +53,79 @@
     "melee_damage": { "bash": 9 }
   },
   {
+    "id": "spas_12_sporting",
+    "copy-from": "shotgun_base",
+    "looks_like": "remington_870",
+    "type": "GUN",
+    "name": { "str": Italian sporting shotgun" },
+    "//": "This is the Sporting Purpose model with 21.5" barrel.",
+    "description": "An Italian-made shotgun that can be fired in both semi-automatic and pump-action modes.  This is the sporting model.",
+    "variant_type": "gun",
+    "variants": [
+      {
+        "id": "spas_12_sporting",
+        "name": { "str": "Franchi SPAS-12" },
+        "description": An Italian-made imported shotgun that can be fired in both semi-automatic and pump-action modes.  This is the more-common "Sporting Purpose Automatic Shotgun", with a fixed stock and a 6-round magazine tube."
+      }
+    ],
+    "weight": "4080 g",
+    "volume": "2548 ml",
+    "//": "I could not find data on the SPAS-12's weight or height, so volume is copied from the Mossberg 590A1, whose weight, length and tactical niche were similar.",
+    "longest_side": "1,041 mm",
+    "barrel_length": "546 mm",
+    "price": "950 USD",
+    "price_postapoc": "22 USD 50 cent",
+    "material": [ "steel", "plastic" ],
+    "dispersion": 345,
+    "durability": 7,
+    "valid_mod_locations": [
+      [ "barrel", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip mount", 1 ],
+      [ "mechanism", 2 ],
+      [ "muzzle", 1 ],
+      [ "rail mount", 1 ],
+      [ "sights mount", 1 ],
+      [ "sling", 1 ],
+      [ "stock mount", 1 ],
+      [ "underbarrel mount", 1 ]
+    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 6 } } ],
+    "melee_damage": { "bash": 9 }
+  },
+  {
+    "id": "spas_12_combat",
+    "copy-from": "spas_12_sporting",
+    "looks_like": "remington_870",
+    "type": "GUN",
+    "name": { "str": Italian combat shotgun" },
+    "//": "This is the Special Purpose model with 21.5" barrel.",
+    "description": "An Italian-made imported shotgun that can be fired in both semi-automatic and pump-action modes.  Its distinctive silhouette and use by SWAT teams across the country has made it famous.",
+    "variant_type": "gun",
+    "variants": [
+      {
+        "id": "spas_12_combat",
+        "name": { "str": "Franchi SPAS-12" },
+        "description": "An Italian-made imported shotgun that can be fired in both semi-automatic and pump-action modes.  This is the "Special Purpose Automatic Shotgun" model, with a folding stock and an 8-round tube magazine.  This is either an original dating from before the import ban or a replica produced after the ban ran its course."
+      }
+    ],
+    "built_in_mods": [ "folding_stock" ],
+    "default_mods": [ "butt_hook" ],
+    "valid_mod_locations": [
+      [ "barrel", 1 ],
+      [ "brass catcher", 1 ],
+      [ "grip mount", 1 ],
+      [ "mechanism", 2 ],
+      [ "muzzle", 1 ],
+      [ "rail mount", 1 ],
+      [ "sights mount", 1 ],
+      [ "stock accessory", 2 ],
+      [ "sling", 1 ],
+      [ "underbarrel mount", 1 ]
+    ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "rigid": true, "ammo_restriction": { "shot": 8 } } ]
+  },
+  {
     "id": "ksg",
     "copy-from": "shotgun_pump",
     "looks_like": "remington_870",

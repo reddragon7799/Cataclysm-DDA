@@ -331,6 +331,24 @@
     "melee_damage": { "bash": 12 }
   },
   {
+    "id": "modular_m4_carbine_semi",
+    "type": "GUN",
+    "copy-from": "modular_m4_carbine",
+    "name": { "str": "semi-auto M4 carbine" },
+    "description": "This is a semi-automatic civilian version of the M4 carbine.",
+    "price": "1 kUSD 450 USD",
+    "price_postapoc": "40 USD",
+    "variant_type": "gun",
+    "variants": [
+      {
+        "id": "LAR-15 carbine",
+        "description": "This is a semi-automatic civilian version of the M4A1 carbine. It was adopted by the DEA and the FBI, and is popular among sport shooters."
+      }
+    ],
+    "modes": [ [ "DEFAULT", "semi-auto", 1 ] ],
+    "built_in_mods": [ "adjustable_stock" ]
+  },
+  {
     "id": "modular_m16a4",
     "looks_like": "modular_ar15",
     "type": "GUN",

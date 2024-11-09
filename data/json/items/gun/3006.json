@@ -118,6 +118,11 @@
         "id": "m1903",
         "name": { "str": "M1903 Springfield" },
         "description": "A powerful military rifle originally chambered in .30-03 Springfield, developed to replace the US Army's older Krag rifle.  It was quickly rechambered into the .30-06 caliber with its spitzer bullet.  While an American rifle produced and developed around WW1, manufacturing couldn't keep up with demand, and saw service alongside the M1917 Enfield, a British rifle rechambered for the American 30-06.  It saw service as a sniper rifle up to the Vietnam War, but nowadays is mainly used by civilians, either as hunting rifles or in collections."
+      },
+      {
+        "id": "mod70",
+        "name": { "str": "Winchester Model 70" },
+        "description": "A very popular hunting rifle based on the action of the German Mauser '98 rifle.  The Model 70 is available in more than three dozen calibers, but like most examples this one is chambered in the hard-hitting .30-06 Springfield."
       }
     ],
     "weight": "3910 g",

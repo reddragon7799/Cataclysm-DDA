@@ -792,7 +792,8 @@
     "entries": [
       { "group": "police_armory_sig_40", "prob": 20 },
       { "group": "police_armory_glock_22", "prob": 70 },
-      { "group": "police_armory_px4_40", "prob": 10 }
+      { "group": "police_armory_px4_40", "prob": 10 },
+      { "group": "police_armory_usp_40", "prob": 20 }
     ]
   },
   {
@@ -849,6 +850,22 @@
       { "group": "police_armory_boxes_40fmj", "prob": 15 }
     ]
   },
+  {
+    "type": "item_group",
+    "id": "police_armory_usp_40",
+    "//": "One or more USP .40 pistols, empty mags, full mags, JHP and FMJ ammo with a chance of extra for each.",
+    "subtype": "collection",
+    "entries": [
+      { "item": "usp_40" },
+      { "item": "usp_40", "prob": 50 },
+      { "item": "usp_40", "prob": 25 },
+      { "item": "usp_40mag", "count": [ 1, 4 ] },
+      { "group": "police_armory_full_usp40mag_40sw", "count": [ 0, 4 ] },
+      { "group": "police_armory_full_usp40mag_40fmj", "count": [ 0, 4 ] },
+      { "group": "police_armory_boxes_40sw" },
+      { "group": "police_armory_boxes_40fmj" },
+      { "group": "police_armory_boxes_40sw", "prob": 15 },
+      { "group": "police_armory_boxes_40fmj", "prob": 15 }
   {
     "type": "item_group",
     "id": "police_armory_ump40",
@@ -908,6 +925,20 @@
     "subtype": "collection",
     "container-item": "px4_40mag",
     "entries": [ { "item": "40fmj", "charges": 14 } ]
+  },
+  {
+    "id": "police_armory_full_usp40mag_40sw",
+    "type": "item_group",
+    "subtype": "collection",
+    "container-item": "usp40mag",
+    "entries": [ { "item": "40sw", "charges": 13 } ]
+  },
+  {
+    "id": "police_armory_full_usp40mag_40fmj",
+    "type": "item_group",
+    "subtype": "collection",
+    "container-item": "usp40mag",
+    "entries": [ { "item": "40fmj", "charges": 13 } ]
   },
   {
     "id": "police_armory_full_ump40mag_40sw",
@@ -1859,11 +1890,13 @@
     "//": "Pick a random police shotgun.",
     "subtype": "distribution",
     "entries": [
-      { "item": "benelli_tsa", "variant": "mossberg_500_security", "prob": 30 },
+      { "item": "benelli_tsa", "variant": "mossberg_500_security", "prob": 29 },
       { "item": "remington_870_express", "prob": 35 },
       { "item": "mossberg_590", "variant": "mossberg_590", "prob": 23 },
       { "item": "mossberg_930", "variant": "mossberg_930", "prob": 8 },
       { "item": "mossberg_930", "variant": "m1014", "prob": 2 },
+      { "item": "spas_12_sporting", "prob": 2 },
+      { "item": "spas_12_combat", "prob": 1 },
       { "item": "remington_870_breacher", "prob": 2 }
     ]
   },

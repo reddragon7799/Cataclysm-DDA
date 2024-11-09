@@ -375,6 +375,24 @@
     "pocket_data": [ { "magazine_well": "250 ml", "pocket_type": "MAGAZINE_WELL", "item_restriction": [ "usp45mag" ] } ]
   },
   {
+    "id": "usp_45_match",
+    "copy_from" "usp_9mm",
+    "type": "GUN",
+    "name": { "str_sp": ".45 USP Match pistol" },
+    "description": "An accurized version of the H&K USP, designed for competition shooting."
+    "weight": "821 g",
+    "price": "1 kUSD 350 USD",
+    "price_postapoc": "30 USD",
+    "symbol": "(",
+    "color": "dark_gray",
+    "ammo": [ "40" ],
+    "dispersion": 360,
+    "blackpowder_tolerance": 40,
+    "built_in_mods": [ "compensator", "match_trigger", "muzzle_weight" ],
+    "flags": [ "ALLOWS_BODY_BLOCK" ],
+    "weapon_category": [ "AUTOMATIC_PISTOLS" ],
+    "pocket_data": [ { "pocket_type": "MAGAZINE_WELL", "magazine_well": "250 ml", "item_restriction": [ "usp45mag" ] } ]
+  {
     "id": "walther_ppq_45",
     "copy-from": "pistol_base",
     "looks_like": "glock_17",

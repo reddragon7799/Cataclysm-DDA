@@ -18,6 +18,18 @@
     ]
   },
   {
+    "id": "modular_lar15",
+    "type": "item_group",
+    "subtype": "collection",
+    "entries": [
+      {
+        "item": "modular_m4_carbine_semi",
+        "variant": "LAR-15 carbine",
+        "contents-item": [ "retool_ar15_223rem_medium" ]
+      }
+    ]
+  },
+  {
     "id": "modular_ar15",
     "type": "item_group",
     "subtype": "collection",

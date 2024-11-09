@@ -45,6 +45,11 @@
         "id": "model_10_revolver",
         "name": { "str": "S&W Model 10" },
         "description": "The Model 10 is one of the oldest firearm models still in production, and most produced handguns, with production dating back to 1899.  Starting life as the Model 1899 Hand Ejector, it only picked up the current name of Model 10 in the 1950s.  Despite .38 Special and .357 Magnum being the same caliber, Model 10s were produced to handle blackpowder loads, and while modern smokeless loads of .38 Special work fine, .357 Magnum could cause the Model 10 to catastrophically fail."
+      },
+      {
+        "id": "model_10_revolver",
+        "name": { "str": "Colt Official Police" },
+        "description": "One of the best-selling police firearms of all time, by the 1950s the Colt Official Police had come to exemplify a law enforcement weapon in the eyes of the public.  It was adopted by police agencies across the country, and was an official handgun of the FBI until 1984."
       }
     ],
     "weight": "975 g",

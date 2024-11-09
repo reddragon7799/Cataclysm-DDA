@@ -34,6 +34,7 @@
     "mod_targets": [
       "modular_ar15",
       "modular_m4_carbine",
+      "modular_m4_carbine_semi",
       "modular_m16a4",
       "modular_m16_auto_rifle",
       "modular_m27_assault_rifle",
