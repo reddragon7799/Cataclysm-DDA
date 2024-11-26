@@ -77,7 +77,6 @@
       { "group": "on_hand_40" }
     ]
   },
-
   {
     id nested_glock_23,
     type item_group,
