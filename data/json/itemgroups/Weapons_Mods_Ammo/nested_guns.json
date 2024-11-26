@@ -77,6 +77,31 @@
       { "group": "on_hand_40" }
     ]
   },
+
+  {
+    id nested_glock_23,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item glock_23, charges [ 0, 15 ] },
+      { item glock40mag, charges [ 0, 15 ] },
+      { item glock40mag, charges [ 0, 15 ], prob 50 },
+      { group on_hand_40 }
+  },
+  {
+    id nested_glock_27,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item glock_22, charges [ 0, 9 ] },
+      { item glock40smallmag, charges [ 0, 9 ] },
+      { item glock40smallmag, charges [ 0, 9 ], prob 50 },
+      { group on_hand_40 }
+  },
   {
     "id": "nested_glock_29",
     "type": "item_group",
@@ -922,6 +947,58 @@
     ]
   },
   {
+    id nested_usp_40,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_40, charges [ 0, 13 ] },
+      { item usp40mag },
+      { item usp40mag, prob 50 },
+      { group on_hand_40 }
+    ]
+  },
+  {
+    id nested_usp_40_match,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_40_match, charges [ 0, 13 ] },
+      { item usp40mag },
+      { item usp40mag, prob 50 },
+      { group on_hand_40 }
+    ]
+  },
+  {
+    id nested_usp_45,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_45, charges [ 0, 12 ] },
+      { item usp45mag },
+      { item usp45mag, prob 50 },
+      { group on_hand_45 }
+    ]
+  },
+  {
+    id nested_usp_45_match,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_45_match, charges [ 0, 12 ] },
+      { item usp45mag },
+      { item usp45mag, prob 50 },
+      { group on_hand_45 }
+    ]
+  },
+  {
     "id": "nested_usp_45_mk23",
     "type": "item_group",
     "//": "this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack",
@@ -932,6 +1009,32 @@
       { "item": "usp45mag" },
       { "item": "usp45mag", "prob": 50 },
       { "group": "on_hand_45" }
+    ]
+  },
+  {
+    id nested_usp_9mm,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_9mm, charges [ 0, 15 ] },
+      { item usp9mag },
+      { item usp9mag, prob 50 },
+      { group on_hand_9mm }
+    ]
+  },
+  {
+    id nested_usp_9mm_match,
+    type item_group,
+     this is a distribution for the gun, reasonable number of backup mags, and some ammo to repack,
+    subtype collection,
+    ammo 100,
+    entries [
+      { item usp_9mm_match, charges [ 0, 15 ] },
+      { item usp9mag },
+      { item usp9mag, prob 50 },
+      { group on_hand_9mm }
     ]
   },
   {
