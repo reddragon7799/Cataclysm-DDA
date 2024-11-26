@@ -142,17 +142,19 @@ std::string direction_suffix( const tripoint &p, const tripoint &q );
  * The actual Bresenham algorithm in 2D and 3D, everything else should call these
  * and pass in an interact functor to iterate across a line between two points.
  */
-void bresenham( const point &p1, const point &p2, int t,
-                const std::function<bool( const point & )> &interact );
-void bresenham( const tripoint &loc1, const tripoint &loc2, int t, int t2,
-                const std::function<bool( const tripoint & )> &interact );
+void bresenham( const point_bub_ms &p1, const point_bub_ms &p2, int t,
+                const std::function<bool( const point_bub_ms & )> &interact );
+void bresenham( const tripoint_bub_ms &loc1, const tripoint_bub_ms &loc2, int t, int t2,
+                const std::function<bool( const tripoint_bub_ms & )> &interact );
 
 tripoint move_along_line( const tripoint &loc, const std::vector<tripoint> &line,
                           int distance );
 tripoint_bub_ms move_along_line( const tripoint_bub_ms &loc,
                                  const std::vector<tripoint_bub_ms> &line, int distance );
+// line from p1 to p2, including p2 but not p1, using Bresenham's algorithm
 // The "t" value decides WHICH Bresenham line is used.
 std::vector<point> line_to( const point &p1, const point &p2, int t = 0 );
+// line from p1 to p2, including p2 but not p1, using Bresenham's algorithm
 // t and t2 decide which Bresenham line is used.
 std::vector<tripoint> line_to( const tripoint &loc1, const tripoint &loc2, int t = 0, int t2 = 0 );
 // sqrt(dX^2 + dY^2)

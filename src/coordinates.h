@@ -13,7 +13,6 @@
 #include <vector>
 
 #include "cata_inline.h"
-#include "coordinate_conversions.h"
 #include "coords_fwd.h"
 #include "cuboid_rectangle.h"
 #include "debug.h"
@@ -211,6 +210,14 @@ class coord_point_ob : public
             return this_as_point( this->raw().xy() );
         }
 
+        constexpr auto abs() const {
+            return coord_point_ob( this->raw().abs() );
+        }
+
+        constexpr auto rotate( int turns, const point &dim = point_south_east ) const {
+            return coord_point_ob( this->raw().rotate( turns, dim ) );
+        }
+
         friend inline this_as_ob operator+( const coord_point_ob &l, const point &r ) {
             return this_as_ob( l.raw() + r );
         }
@@ -405,6 +412,14 @@ constexpr inline auto operator-(
 {
     using PointResult = decltype( PointL() + PointR() );
     return coord_point_ob<PointResult, origin::relative, Scale>( l.raw() - r.raw() );
+}
+
+template<typename Point, origin Origin, scale Scale>
+constexpr inline auto operator-(
+    const coord_point_ob<Point, Origin, Scale> &l )
+{
+    using PointResult = decltype( Point() );
+    return coord_point_ob<PointResult, Origin, Scale>( - l.raw() );
 }
 
 // Only relative points can be multiplied by a constant
@@ -761,9 +776,11 @@ using coords::project_bounds;
 point_rel_ms rebase_rel( point_sm_ms );
 point_rel_ms rebase_rel( point_omt_ms p );
 point_rel_ms rebase_rel( point_bub_ms p );
+point_rel_sm rebase_rel( point_bub_sm p );
 point_sm_ms rebase_sm( point_rel_ms p );
 point_omt_ms rebase_omt( point_rel_ms p );
 point_bub_ms rebase_bub( point_rel_ms p );
+point_bub_sm rebase_bub( point_rel_sm p );
 
 tripoint_rel_ms rebase_rel( tripoint_sm_ms p );
 tripoint_rel_ms rebase_rel( tripoint_omt_ms p );
@@ -830,6 +847,7 @@ direction direction_from( const coords::coord_point_ob<Point, Origin, Scale> &lo
     return direction_from( loc1.raw(), loc2.raw() );
 }
 
+// line from loc1 to loc2, including loc2 but not loc1
 template<typename Point, coords::origin Origin, coords::scale Scale, std::enable_if_t<std::is_same_v<Point, point>, int> = 0>
 std::vector < coords::coord_point < Point, Origin, Scale >>
         line_to( const coords::coord_point_ob<Point, Origin, Scale> &loc1,
@@ -845,6 +863,7 @@ std::vector < coords::coord_point < Point, Origin, Scale >>
     return result;
 }
 
+// line from loc1 to loc2, including loc2 but not loc1
 template<typename Point, coords::origin Origin, coords::scale Scale, std::enable_if_t<std::is_same_v<Point, point>, int> = 0>
 std::vector < coords::coord_point_ib < Point, Origin, Scale >>
         line_to( const coords::coord_point_ib<Point, Origin, Scale> &loc1,
@@ -860,6 +879,7 @@ std::vector < coords::coord_point_ib < Point, Origin, Scale >>
     return result;
 }
 
+// line from loc1 to loc2, including loc2 but not loc1
 template<typename Tripoint, coords::origin Origin, coords::scale Scale,
          std::enable_if_t<std::is_same_v<Tripoint, tripoint>, int> = 0>
 std::vector < coords::coord_point < Tripoint, Origin, Scale >>
@@ -876,6 +896,7 @@ std::vector < coords::coord_point < Tripoint, Origin, Scale >>
     return result;
 }
 
+// line from loc1 to loc2, including loc2 but not loc1
 template<typename Tripoint, coords::origin Origin, coords::scale Scale,
          std::enable_if_t<std::is_same_v<Tripoint, tripoint>, int> = 0>
 std::vector < coords::coord_point_ib < Tripoint, Origin, Scale>>
@@ -1017,10 +1038,7 @@ struct real_coords {
     void fromabs( const point &abs );
 
     // specifically for the subjective position returned by overmap::draw
-    void fromomap( const point &rel_om, const point &rel_om_pos ) {
-        const point a = om_to_omt_copy( rel_om ) + rel_om_pos;
-        fromabs( omt_to_ms_copy( a ) );
-    }
+    void fromomap( const point &rel_om, const point &rel_om_pos );
 
     point_abs_omt abs_omt() const {
         return project_to<coords::omt>( point_abs_sm( abs_sub ) );

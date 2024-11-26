@@ -57,6 +57,8 @@ enum quit_status {
     QUIT_NOSAVED,   // Quit without saving
     QUIT_DIED,      // Actual death
     QUIT_WATCH,     // Died, and watching aftermath
+    QUIT_EXIT,      // Skip main menu and quit directly to OS
+    QUIT_EXIT_PENDING, // same as above, used temporarily so input_context doesn't get confused
 };
 
 enum safe_mode_type {
@@ -199,6 +201,10 @@ class game
     protected:
         /** Loads dynamic data from the given directory. May throw. */
         void load_data_from_dir( const cata_path &path, const std::string &src );
+        /** Loads dynamic data from the given directory. Excludes files from 'mod_interactions' sub-directory.  May throw. */
+        void load_mod_data_from_dir( const cata_path &path, const std::string &src );
+        /** Loads dynamic data from the folder if it is part of a subdirectory that is named after a currently loaded mod_id.  May throw. */
+        void load_mod_interaction_data_from_dir( const cata_path &path, const std::string &src );
     public:
         void setup();
         /** Saving and loading functions. */
@@ -538,6 +544,10 @@ class game
         npc *find_npc_by_unique_id( const std::string &unique_id );
         /** Makes any nearby NPCs on the overmap active. */
         void load_npcs();
+
+        /** NPCs who saw player interacting with their stuff (disassembling, cutting etc)
+        * will notify the player that thievery was witnessed and make angry at the player. */
+        void on_witness_theft( const item &target );
     private:
         /** Unloads all NPCs.
          *
@@ -729,6 +739,9 @@ class game
          * disabled).
          */
         void load_map( const tripoint_abs_sm &pos_sm, bool pump_events = false );
+        // Removes legacy npctalk_var_ prefix from older versions of the game. Should be removed after 0.J
+        static void legacy_migrate_npctalk_var_prefix( std::unordered_map<std::string, std::string>
+                &map_of_vars );
         /**
          * The overmap which contains the center submap of the reality bubble.
          */
@@ -780,7 +793,7 @@ class game
         void draw_weather( const weather_printable &wPrint ) const;
         void draw_sct() const;
         void draw_zones( const tripoint_bub_ms &start, const tripoint_bub_ms &end,
-                         const tripoint &offset ) const;
+                         const tripoint_rel_ms &offset ) const;
         // Draw critter (if visible!) on its current position into w_terrain.
         // @param center the center of view, same as when calling map::draw
         void draw_critter( const Creature &critter, const tripoint &center );
@@ -856,7 +869,7 @@ class game
         bool phasing_move( const tripoint &dest, bool via_ramp = false );
         // Handle shifting through terrain and walls, with distance defined by enchantment.
         bool phasing_move_enchant( const tripoint &dest, int phase_distance = 0 );
-        bool can_move_furniture( tripoint fdest, const tripoint &dp );
+        bool can_move_furniture( tripoint_bub_ms fdest, const tripoint_rel_ms &dp );
         // Regular movement. Returns false if it failed for any reason
         // TODO: Get rid of untyped overload
         bool walk_move( const tripoint &dest, bool via_ramp = false, bool furniture_move = false );
@@ -906,7 +919,7 @@ class game
         /** Check for dangerous stuff at dest_loc, return false if the player decides
         not to step there */
         // Handle pushing during move, returns true if it handled the move
-        bool grabbed_move( const tripoint &dp, bool via_ramp );
+        bool grabbed_move( const tripoint_rel_ms &dp, bool via_ramp );
         bool grabbed_veh_move( const tripoint_rel_ms &dp );
 
         void control_vehicle(); // Use vehicle controls  '^'
@@ -928,8 +941,16 @@ class game
 
         void reload( item_location &loc, bool prompt = false, bool empty = true );
     public:
-        int grabbed_furn_move_time( const tripoint &dp );
-        bool grabbed_furn_move( const tripoint &dp );
+        /* Returns true if there's nobody to anger, player is already allowed to do this, or player answered yes to warning query
+        * This function also handles changing the faction opinion if player proceeds despite warning
+        * Returns false only if player declined query
+        * Second boolean asking_for_public_goods should be used for cases where the action isn't necessarily detrimental
+        * to the faction, like merely using the examine_action of furniture.
+        */
+        bool warn_player_maybe_anger_local_faction( bool really_bad_offense = false,
+                bool asking_for_public_goods = false );
+        int grabbed_furn_move_time( const tripoint_rel_ms &dp );
+        bool grabbed_furn_move( const tripoint_rel_ms &dp );
 
         void reload_item(); // Reload an item
         void reload_wielded( bool prompt = false );
@@ -951,8 +972,12 @@ class game
         void mon_info_update( );    //Update seen monsters information
         void cleanup_dead();     // Delete any dead NPCs/monsters
         bool is_dangerous_tile( const tripoint &dest_loc ) const;
-        std::vector<std::string> get_dangerous_tile( const tripoint &dest_loc ) const;
-        bool prompt_dangerous_tile( const tripoint &dest_loc ) const;
+        // TODO: Get rid of untyped overload.
+        std::vector<std::string> get_dangerous_tile( const tripoint &dest_loc, size_t max = 0 ) const;
+        std::vector<std::string> get_dangerous_tile( const tripoint_bub_ms &dest_loc,
+                size_t max = 0 ) const;
+        bool prompt_dangerous_tile( const tripoint &dest_loc,
+                                    std::vector<std::string> *harmful_stuff = nullptr ) const;
         // Pick up items from the given point
         // TODO: Get rid of untyped overloads.
         void pickup( const tripoint &p );
@@ -1020,6 +1045,8 @@ class game
         void bury_screen() const;// Bury a dead character (record their last words)
         void death_screen();     // Display our stats, "GAME OVER BOO HOO"
     public:
+        bool query_exit_to_OS();
+        class exit_exception: public std::exception {};
         /**
          * If there is a robot (that can be disabled), query the player
          * and try to disable it.
@@ -1291,7 +1318,7 @@ class game
         @param show_messages If true, outputs climbing chance factors to the message log as if attempting.
         @return Probability, as a percentage, that player will slip down while climbing some terrain.
         */
-        int slip_down_chance(
+        float slip_down_chance(
             climb_maneuver maneuver,
             climbing_aid_id aid = climbing_aid_id::NULL_ID(),
             bool show_chance_messages = true );
@@ -1329,5 +1356,7 @@ namespace cata_event_dispatch
 // @param m The map the avatar is moving on
 void avatar_moves( const tripoint &old_abs_pos, const avatar &u, const map &m );
 } // namespace cata_event_dispatch
+
+bool are_we_quitting();
 
 #endif // CATA_SRC_GAME_H

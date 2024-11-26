@@ -877,6 +877,7 @@ Bulgarian
 Bullard
 bullpup
 bullseye
+bullshit
 Buluotuo
 Bulwer
 Bundahis
@@ -1100,6 +1101,8 @@ chk
 Chloe
 Cho
 chode
+chokeberry
+chokeberries
 chokepoints
 Chol
 chonker
@@ -1789,6 +1792,8 @@ EOCs
 EOD
 eolocanth
 eolocanths
+eolambia
+eolambias
 eoraptor
 eoraptors
 EPA
@@ -3414,6 +3419,8 @@ Likvidator
 Likvidators
 lil
 Lila
+lilin
+Lilit
 lilypad
 Lima
 limbed
@@ -3458,6 +3465,7 @@ locs
 Locutus
 Loew
 Loki
+lokiceratops
 lolita
 London
 longarm
@@ -4399,6 +4407,7 @@ Ojibwe
 ok
 okie
 Okinawan
+Oklahoma
 Olaf
 Olam
 o'lantern
@@ -5201,6 +5210,7 @@ RPK
 RTG
 RTGs
 Ru
+ruach
 Rubaiyat
 rubbles
 Rubik
@@ -5907,6 +5917,7 @@ streetwear
 stressfully
 striders
 strigoi
+strix
 strobing
 strobus
 Stromer
