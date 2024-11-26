@@ -843,7 +843,7 @@
         "prob": 70
       },
       {
-        "distribution": [ { "item": "usp45mag", "charges": 13, "prob": 30 }, { "item": "usp40mag", "charges": [ 0, 5 ], "prob": 70 } ],
+        "distribution": [ { "item": "usp40mag", "charges": 13, "prob": 30 }, { "item": "usp40mag", "charges": [ 0, 5 ], "prob": 70 } ],
         "prob": 50
       }
     ]
