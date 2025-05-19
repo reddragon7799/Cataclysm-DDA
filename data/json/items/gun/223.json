@@ -43,8 +43,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "AR pistol" },
+<<<<<<< Updated upstream
     "description": "The common AR-15 platform, with its stock removed and buffer tube covered by a sleeve.  AR pistols lack stocks, or have arm braces due to restrictions on short barreled rifles, and so without a stock, they're legally classified as a pistol.",
     "weight": "735 g",
+=======
+    "description": "The common AR-15 platform, with its stock removed and buffer tube covered by a sleeve.  AR pistols lack stocks, or have arm braces due to restrictions on short barreled rifles, and so, without a stock, they're legally classified as a pistol.",
+    "weight": "1043 g",
+>>>>>>> Stashed changes
     "volume": "748 ml",
     "longest_side": "373 mm",
     "price": "245 USD",
@@ -94,13 +99,13 @@
       {
         "id": "modular_m27iar",
         "name": { "str": "M27 IAR carbine" },
-        "description": "A H&K416 carbine outfitted with a heavier barrel to enable higher amounts of suppressive fire while retaining a good degree of mobility.",
+        "description": "An H&K416 carbine outfitted with a heavier barrel to enable higher amounts of suppressive fire while retaining a good degree of mobility.",
         "ascii_picture": "m27_iar"
       },
       {
         "id": "modular_m38dmr",
         "name": { "str": "M38 DMR rifle" },
-        "description": "The M38 Designated Marksman Rifle is an M27 IAR, itself derived from a H&K416, selected for accuracy, and outfitted with a variable power scope and a QDSS suppressor."
+        "description": "The M38 Designated Marksman Rifle is an M27 IAR, itself derived from a H&K416, selected for accuracy and outfitted with a variable power scope and a QDSS suppressor."
       }
     ],
     "to_hit": -1,
@@ -222,7 +227,7 @@
       {
         "id": "sl8",
         "name": { "str": "SL8-6" },
-        "description": "The SL8 is an importation-legal gun similar to the German G36, made to be semi-auto only, and to only feed from 10 round single stack magazines.  It also features a distinctive thumbhole stock, a polymer handguard, and a top rail for mounting optics."
+        "description": "The SL8 is an importation-legal gun similar to the German G36, made to be semi-auto only and to only feed from 10 round single stack magazines.  It also features a distinctive thumbhole stock, a polymer handguard, and a top rail for mounting optics."
       }
     ],
     "material": [ "steel", "plastic" ],
@@ -303,7 +308,7 @@
     "subtypes": [ "GUN" ],
     "copy-from": "m249",
     "name": { "str": "M249S machine gun" },
-    "description": "This is a semi-automatic civilian variant of the M249 machine gun, manufactured for sport shooting and collectors market.  Notably, it retains the ability to be belt fed, an uncommon feature in civilian firearms.",
+    "description": "This is a semi-automatic civilian variant of the M249 machine gun, manufactured for sport shooting and the collector's market.  Notably, it retains the ability to be belt-fed, an uncommon feature in civilian firearms.",
     "modes": [ [ "DEFAULT", "semi-auto", 1 ] ]
   },
   {
@@ -332,7 +337,7 @@
       {
         "id": "m4_cqbr",
         "name": { "str": "Mk 18 CQBR carbine" },
-        "description": "This is a shorter M4 carbine with a 10.3 inch barrel, intended for confined spaces and close quarters battle situations.",
+        "description": "This is a shorter M4 carbine with a 10.3-inch barrel, intended for confined spaces and close quarters battle situations.",
         "weight": 0
       }
     ],
@@ -415,7 +420,7 @@
       {
         "id": "modular_m16a3",
         "name": { "str": "M16A3 rifle" },
-        "description": "The M16 is a very common assault rifle descended from the AR-15, used by militaries across the world for over 50 years.  It is a gas-operated, rotating bolt rifle known for its accuracy and controllable recoil.  This one is a relatively rare M16A3, with full auto capability."
+        "description": "The M16 is a very common assault rifle descended from the AR-15, used by militaries across the world for over 50 years.  It is a gas-operated, rotating bolt rifle known for its accuracy and controllable recoil.  This one is a relatively rare M16A3, with full-auto capability."
       }
     ],
     "modes": [ [ "DEFAULT", "semi-auto", 1 ], [ "AUTO", "auto", 4 ] ],
@@ -429,7 +434,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "Ruger Mini-14 carbine" },
-    "description": "A small, lightweight semi-auto carbine designed for civilian and police use.  Its superb accuracy and low recoil makes it more suitable than full-auto rifles for some situations.",
+    "description": "A small, lightweight, semi-auto carbine designed for civilian and police use.  Its superb accuracy and low recoil makes it more suitable than full-auto rifles for some situations.",
     "ascii_picture": "mini-14",
     "weight": "3180 g",
     "volume": "2900 ml",
@@ -474,7 +479,7 @@
       {
         "id": "sig553",
         "name": { "str": "SIG SG 556" },
-        "description": "The SG 556 is a civilian model of the Swiss SIG SG 550 series, manufactured in New Hampshire.  It lacks any automatic fire capability and has a 16 inch barrel, but still retains a folding stock, with the feature of feeding from STANAG magazines instead of the SG 550 series magazines."
+        "description": "The SG 556 is a civilian model of the Swiss SIG SG 550 series, manufactured in New Hampshire.  It lacks any automatic fire capability and has a 16-inch barrel, but still retains a folding stock, with the feature of feeding from STANAG magazines instead of the SG 550 series magazines."
       }
     ],
     "material": [ "steel", "plastic" ],
@@ -784,7 +789,7 @@
       {
         "id": "rdb_223",
         "name": { "str": "Kel-Tec RDB rifle" },
-        "description": "This is a semi-automatic bullpup rifle with a lightened body due to the use of polymers and aluminum, using standard magazines from the AR-15 platform and the 5.56 NATO cartridge.  The name stands for rifle, downward-ejection, bullpup, and its design was intended to incorporate some technical solutions, such as downward case ejection and convenience for left-handers, to solve some problems with bullpup guns.  However, the good idea's execution is not as perfect as the manufacturer (and user) would like.  No good idea from Kel-Tec is immune to Kel-Tec manufacturing issues, sadly."
+        "description": "This is a semi-automatic bullpup rifle with a lightened body due to the use of polymers and aluminum, using standard magazines from the AR-15 platform and the 5.56 NATO cartridge.  The name stands for rifle, downward-ejection, bullpup, and its design was intended to incorporate some technical solutions to solve some problems with bullpup guns, such as downward case ejection and convenience for left-handers.  However, the good idea's execution is not as perfect as the manufacturer (and user) would like.  No good idea from Kel-Tec is immune to Kel-Tec manufacturing issues, sadly."
       }
     ],
     "weight": "3200 g",

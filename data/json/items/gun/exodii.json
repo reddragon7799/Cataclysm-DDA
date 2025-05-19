@@ -91,7 +91,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "Exodii ordnance cannon" },
-    "description": "An oddball in the Exodii's oddball selection of armaments - This robust, shoulder mounted weapons platform started life not as a weapon, but as a ceremonial firework cannon, mounted in droves atop of parade tanks the size of buildings by some globe spanning military culture.  Little of its original design remains under the retrofits and wear, with even its engravings worn down to nothing by time.  It finds its niche in disposing incoming hordes from large distances, helped by the variety of chemical payloads its been modified to fire.",
+    "description": "An oddball in the Exodii's oddball selection of armaments - This robust, shoulder mounted weapons platform started life not as a weapon, but as a ceremonial firework cannon, mounted in droves atop parade tanks the size of buildings by some globe-spanning military culture.  Little of its original design remains under the retrofits and wear, with even its engravings worn down to nothing by time.  It finds its niche in disposing incoming hordes from large distances, helped by the variety of chemical payloads it's been modified to fire.",
     "weight": "8180 g",
     "volume": "10360 ml",
     "material": [ "qt_steel", "gold" ],
@@ -102,7 +102,7 @@
       {
         "id": "Khuunaofaai",
         "name": { "str": "Khuunäöfaai ordnance cannon" },
-        "description": "An oddball in the Exodii's oddball selection of armaments - This robust, shoulder mounted weapons platform started life not as a weapon, but as a ceremonial firework cannon, mounted in droves atop of parade tanks the size of buildings by some globe spanning military culture.  Little of its original design remains under the retrofits and wear, with even its engravings worn down to nothing by time.  The Khuunäöfaai finds its niche in disposing incoming hordes from large distances, helped by the variety of chemical payloads its been modified to fire.",
+        "description": "An oddball in the Exodii's oddball selection of armaments - This robust, shoulder mounted weapons platform started life not as a weapon, but as a ceremonial firework cannon, mounted in droves atop parade tanks the size of buildings by some globe-spanning military culture.  Little of its original design remains under the retrofits and wear, with even its engravings worn down to nothing by time.  The Khuunäöfaai finds its niche in disposing incoming hordes from large distances, helped by the variety of chemical payloads it's been modified to fire.",
         "weight": 1
       }
     ],
@@ -171,7 +171,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "Exodii Sapra grenade launcher" },
-    "description": "The Sapra '36 is a short smoothbore bolt-action grenade launcher, fitted with a 5-round box magazine and a large, efficient muzzle brake.  Designed in the interwar period following the proliferation of Brogyeki '23, the Sapra was intended to assist in riots, ambushes and assaulting in urban operations, where explosives applied in quick succession could make short work of targets.  To further assist in riot operations, the Sapra can be fitted with a bayonet, a frivolity that the Exodii almost immediately discarded.  Unlike the Brogyeki, the Sapra is incapable of chambering the longer 27.3 x 110 Diyua shells.  The Exodii have replaced the stock with an aluminum alloy chassis, leaving behind the original wood ones as they became damaged.",
+    "description": "The Sapra '36 is a short smoothbore bolt-action grenade launcher, fitted with a 5-round box magazine and a large, efficient muzzle brake.  Designed in the interwar period following the proliferation of Brogyeki '23, the Sapra was intended to assist in riots, ambushes and assaults in urban operations, where explosives applied in quick succession could make short work of targets.  To further assist in riot operations, the Sapra can be fitted with a bayonet, a frivolity that the Exodii almost immediately discarded.  Unlike the Brogyeki, the Sapra is incapable of chambering the longer 27.3 x 110 Diyua shells.  The Exodii have replaced the stock with an aluminum alloy chassis, leaving behind the original wood ones as they became damaged.",
     "//": "Based on the Truvelo CMS.  No rifle grenades since it has a magazine.",
     "weight": "5900 g",
     "volume": "1930 ml",
@@ -183,7 +183,7 @@
       {
         "id": "sapra",
         "name": { "str": "Sapra '36 grenade launcher" },
-        "description": "The Sapra '36 is a short smoothbore bolt-action grenade launcher, fitted with a 5-round box magazine and a large, efficient muzzle brake.  Designed in the interwar period following the proliferation of Brogyeki '23, the Sapra was intended to assist in riots, ambushes and assaulting in urban operations, where explosives applied in quick succession could make short work of targets.  To further assist in riot operations, the Sapra can be fitted with a bayonet, a frivolity that the Exodii almost immediately discarded.  Unlike the Brogyeki, the Sapra is incapable of chambering the longer 27.3x110 Diyua shells.  The Exodii have replaced the stock with an aluminum alloy chassis, leaving behind the original wood ones as they became damaged.",
+        "description": "The Sapra '36 is a short smoothbore bolt-action grenade launcher, fitted with a 5-round box magazine and a large, efficient muzzle brake.  Designed in the interwar period following the proliferation of Brogyeki '23, the Sapra was intended to assist in riots, ambushes and assaults in urban operations, where explosives applied in quick succession could make short work of targets.  To further assist in riot operations, the Sapra can be fitted with a bayonet, a frivolity that the Exodii almost immediately discarded.  Unlike the Brogyeki, the Sapra is incapable of chambering the longer 27.3x110 Diyua shells.  The Exodii have replaced the stock with an aluminum alloy chassis, leaving behind the original wood ones as they became damaged.",
         "weight": 1
       }
     ],
@@ -274,7 +274,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "Exodii zombie hunting rifle" },
-    "description": "This extremely popular Romanian rifle, made famous in the third Carpathian War, has been redesigned slightly by the Exodii for precision shots against high-priority targets.  In a pinch this modified design can fire a 2-shot burst, with the goal of shredding the target and preventing revivification.  However, the recoil is much greater for a human than it would be for a cyborg or giant quadruped, causing the burst to more often miss than hit.",
+    "description": "This extremely popular Romanian rifle, made famous in the third Carpathian War, has been redesigned slightly by the Exodii for precision shots against high-priority targets.  In a pinch this modified design can fire a 2-shot burst, with the goal of shredding the target and preventing revivification.  However, the recoil is much greater for a human than it would be for a cyborg or giant quadruped, causing the burst to miss more often than hit.",
     "weight": "3910 g",
     "volume": "3 L",
     "//": "around the length of other long 30-06 rifles and heavier AR's",
@@ -287,7 +287,7 @@
       {
         "id": "pamd71z",
         "name": { "str": "PS md. 71z rifle" },
-        "description": "This extremely popular Romanian rifle, made famous in the third Carpathian War, has been redesigned slightly by the Exodii for precision shots against high-priority targets.  In a pinch this modified design can fire a 2-shot burst, with the goal of shredding the target and preventing revivification.  However, the recoil is much greater for a human than it would be for a cyborg or giant quadruped, causing the burst to more often miss than hit."
+        "description": "This extremely popular Romanian rifle, made famous in the third Carpathian War, has been redesigned slightly by the Exodii for precision shots against high-priority targets.  In a pinch this modified design can fire a 2-shot burst, with the goal of shredding the target and preventing revivification.  However, the recoil is much greater for a human than it would be for a cyborg or giant quadruped, causing the burst to miss more often than hit."
       }
     ],
     "to_hit": -1,
@@ -377,9 +377,14 @@
   },
   {
     "id": "exodii_plasma_fan",
+<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str_sp": "Caotel Sr2.2 (FAN)" },
+=======
+    "type": "GUN",
+    "name": { "str_sp": "Caotel Sr2.2 (Fan)" },
+>>>>>>> Stashed changes
     "copy-from": "exodii_plasma_projectile",
     "looks_like": "plasma_gun",
     "description": "Nothing but ruins and ash-choked skies remained in the world where this exotic weapon was manufactured, and the Exodii, ever pragmatic, choose not to explore beyond what was necessary to perform a second, emergency escape.  Even a second of exposure to the Caotel's plasma fan is enough to flash-incinerate anything, but its state of disrepair limits the amount of time its destructive power can be sustained.",
@@ -427,7 +432,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "exodii naval rifle" },
-    "description": "Originally designed for naval defense of a small island country, this gun served Exodii as long as they existed, being one of its reliable tools in later stages of world decay.  Cheap ammunition, a simple mechanism, and immense power output would make it a great weapon for any survivor who is able to carry nearly a hundred kilo of its weight and is in need to penetrate a small bunker.  Unless your body is compatible with Exodii Standard Combat Bodyframe, you can only use it with a heavy-duty tripod, and only while prone.  Due to the size of a top-mounted magazine, the user needs to use a scope mounted on the side of a gun.",
+    "description": "Originally designed for the naval defense of a small island country, this gun has served the Exodii for as long as they existed, being one of their most reliable tools in later stages of world decay.  Cheap ammunition, a simple mechanism, and immense power output would make it a great weapon for any survivor who is able to carry nearly a hundred kilo of weight and who needs to penetrate a small bunker.  Unless your body is compatible with an Exodii Standard Combat Bodyframe, you can only use it with a heavy-duty tripod, and only while prone.  Due to the size of the top-mounted magazine, the user needs to use a scope mounted on the side of a gun.",
     "//": "effectively a weird single-shot self-loading Oerlikon KBA (but longer, and of course not an autocannon) with a 23x152mm round",
     "variant_type": "gun",
     "variants": [
@@ -437,7 +442,7 @@
           "str_sp": "Ree 3.3 exodii rifle",
           "ctxt": "`Ree` in this case is butchered `Roe`, to carry some sort of nautical vibe"
         },
-        "description": "Originally designed for naval defense of a small island country, this gun served Exodii as long as they existed, being one of its reliable tools in later stages of world decay.  Cheap ammunition, a simple mechanism, and immense power output would make it a great weapon for any survivor who is able to carry nearly a hundred kilo of its weight and is in need to penetrate a small bunker.  Unless your body is compatible with Exodii Standard Combat Bodyframe, you can only use it with a heavy-duty tripod, and only while prone.  Due to the size of a top-mounted magazine, the user needs to use a scope mounted on the side of a gun."
+        "description": "Originally designed for the naval defense of a small island country, this gun has served the Exodii for as long as they existed, being one of their most reliable tools in later stages of world decay.  Cheap ammunition, a simple mechanism, and immense power output would make it a great weapon for any survivor who is able to carry nearly a hundred kilo of weight and who needs to penetrate a small bunker.  Unless your body is compatible with an Exodii Standard Combat Bodyframe, you can only use it with a heavy-duty tripod, and only while prone.  Due to the size of the top-mounted magazine, the user needs to use a scope mounted on the side of a gun."
       }
     ],
     "min_strength": 90,

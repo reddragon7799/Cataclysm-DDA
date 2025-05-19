@@ -47,17 +47,17 @@
     "subtypes": [ "GUN" ],
     "variant_type": "gun",
     "name": { "str": "G3 battle rifle" },
-    "description": "A semi-automatic, domestically produced clone of an early battle rifle developed after the end of WWII.  Known as the PTR 91, it is a fantastically reliable, cheap to produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired.",
+    "description": "A semi-automatic, domestically produced clone of an early battle rifle developed after the end of WWII.  Known as the PTR 91, it is a fantastically reliable, cheap-to-produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired.",
     "variants": [
       {
         "id": "g3_ptr",
         "name": { "str": "PTR 91 rifle" },
-        "description": "A semi-automatic, domestically produced clone of an early battle rifle developed after the end of WWII.  The PTR 91 is a fantastically reliable, cheap to produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired."
+        "description": "A semi-automatic, domestically produced clone of an early battle rifle developed after the end of WWII.  The PTR 91 is a fantastically reliable, cheap-to-produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired."
       },
       {
         "id": "g3_cetme",
         "name": { "str": "Century C308 rifle" },
-        "description": "A semi-automatic, domestically produced clone of the CETME Model C, the progenitor of the famous H&K G3 battle rifle.  The CETME is a fantastically reliable, cheap to produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired."
+        "description": "A semi-automatic, domestically produced clone of the CETME Model C, the progenitor of the famous H&K G3 battle rifle.  The CETME is a fantastically reliable, cheap-to-produce rifle that continues to serve in conflict regions.  Though the action is legendary, its handling characteristics and harsher recoil leave something to be desired."
       }
     ],
     "weight": "4380 g",
@@ -88,7 +88,7 @@
     "subtypes": [ "GUN" ],
     "reload_noise_volume": 10,
     "name": { "str": "M134D-H Minigun" },
-    "description": "The M134D-H Minigun is a (relatively) lightweight heavy rotary machine gun.  Its six barrels are rotated by an electric motor, powered by UPS or vehicle.  If you could find enough ammo for it, it would become a devastating weapon.  It must be mounted on a vehicle before use.",
+    "description": "The M134D-H Minigun is a (relatively) lightweight heavy rotary machine gun.  Its six barrels are rotated by an electric motor, powered by UPS or vehicle power.  If you could find enough ammo for it, it would become a devastating weapon.  It must be mounted on a vehicle before use.",
     "weight": "19770 g",
     "volume": "8300 ml",
     "longest_side": "800 mm",
@@ -326,13 +326,17 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "FN SCAR-H sniper rifle" },
+<<<<<<< Updated upstream
     "description": "Sniper Support Rifle, this semi-auto variant of SCAR-H is designed for a long-range precision application, to be used by dedicated marksman.  Includes extended barrel, bipod, and a few additional attachment for greater comfort of a user.",
     "variant_type": "gun",
+=======
+    "description": "Known as the Sniper Support Rifle, this semi-auto variant of the SCAR-H is designed for long-range precision applications, to be used by dedicated marksman.  It includes an extended barrel, a bipod, and a few additional attachments for greater comfort of the user.",
+>>>>>>> Stashed changes
     "variants": [
       {
         "id": "scar_h_mk20",
         "name": { "str_sp": "FN SCAR-H MK 20 SSR" },
-        "description": "Sniper Support Rifle, this semi-auto variant of SCAR-H is designed for a long-range precision application, to be used by dedicated marksman.  Includes extended barrel, bipod, and a few additional attachment for greater comfort of a user."
+        "description": "Known as the Sniper Support Rifle, this semi-auto variant of the SCAR-H is designed for long-range precision applications, to be used by dedicated marksman.  It includes an extended barrel, a bipod, and a few additional attachments for greater comfort of the user."
       }
     ],
     "dispersion": 165,
@@ -465,13 +469,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "PAP AK-style rifle" },
-    "description": "A civilian AK pattern rifle, chambered in 7.62x51mm NATO.",
+    "description": "A civilian AK-pattern rifle, chambered in 7.62x51mm NATO.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "papm77",
         "name": { "str": "PAP M77 rifle" },
-        "description": "A Serbian-made AK pattern rifle made by Zastava in 7.62x51mm NATO.  To avoid import restrictions, Zastava USA has added a number of American-made parts."
+        "description": "A Serbian-made AK-pattern rifle made by Zastava in 7.62x51mm NATO.  To avoid import restrictions, Zastava USA has added a number of American-made parts."
       }
     ],
     "weight": "3402 g",
@@ -578,7 +582,7 @@
       {
         "id": "steyr_scout",
         "name": { "str": "Steyr Scout rifle" },
-        "description": "The Steyr Scout is Steyr's interpretation of Jeff Cooper's concept of a 'scout rifle', a versatile, all-purpose hunting rifle.  To this end, it is exceedingly lightweight, and contains a built-in polymer bipod, and fits a spare magazine inside the stock for fast reloading.  While these features made for a hunting rifle too universal for widespread adoption, they might yet fulfill a vital scouting niche for survivors in the post-Cataclysm world."
+        "description": "The Steyr Scout is Steyr's interpretation of Jeff Cooper's concept of a 'scout rifle', a versatile, all-purpose hunting rifle.  To this end, it is exceedingly lightweight, contains a built-in polymer bipod, and fits a spare magazine inside the stock for fast reloading.  While these features made for a hunting rifle too universal for widespread adoption, they might yet fulfill a vital scouting niche for survivors in the post-Cataclysm world."
       }
     ],
     "weight": "3000 g",

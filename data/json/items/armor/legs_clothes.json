@@ -413,7 +413,7 @@
     "snippet_category": [
       {
         "id": "vintage_jeans1",
-        "text": "A pair of vintage jeans that has been around for so long that very little remains of its once vibrant blue color.  Otherwise it's surprisingly well preserved though."
+        "text": "A pair of vintage jeans that has been around for so long that very little remains of its once vibrant blue color.  Otherwise, though, it's surprisingly well-preserved."
       },
       {
         "id": "vintage_jeans2",
@@ -425,7 +425,7 @@
       },
       {
         "id": "vintage_jeans4",
-        "text": "A pair of vintage blue jeans that has been preserved perfectly.  You can see the leather brand on its behind of company that hasn't been around for a long while, even before the Cataclysm.  This would have made a fortune if; well, you know, it wasn't apocalypse."
+        "text": "A pair of vintage blue jeans that has been preserved perfectly.  You can see a leather brand on the back of a company that hasn't been around for a long while, even before the Cataclysm.  This would have made a fortune if; well, you know, it wasn't the apocalypse."
       }
     ]
   },
@@ -511,7 +511,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "utility kilt" },
-    "description": "Common in America, the utility kilt takes the traditional woolen kilt and constructs it out of cotton canvas and then adds a pocket that would never be on a traditional kilt.",
+    "description": "Common in America, the utility kilt takes the traditional woolen kilt, constructs it out of cotton canvas, and then adds a pocket that would never be on a traditional kilt.",
     "weight": "500 g",
     "volume": "1500 ml",
     "price": "35 USD",
@@ -976,8 +976,13 @@
       {
         "id": "pants_black_camo",
         "name": { "str": "black-camo pants", "str_pl": "pairs of black-camo pants" },
+<<<<<<< Updated upstream
         "description": "Dyed a deep hue of urban black, this pair of hardwearing pants is designed to assist a wearer in concealing themselves within nighttime environments and low-light conditions.  While they're simple civilian trousers given a stealth-black paint job and don't hold a candle to their more marshal brothers, they still look cool and are great at making you feel like you're Spetsnaz.",
         "color": "dark_gray",
+=======
+        "description": "Dyed a deep hue of urban black, this pair of hardwearing pants is designed to assist a wearer in concealing themselves within nighttime environments and low-light conditions.  While they're simple civilian trousers given a stealth-black paint job and don't hold a candle to their more martial brothers, they still look cool and are great at making you feel like you're Spetsnaz.",
+        "color": "black",
+>>>>>>> Stashed changes
         "weight": 6
       },
       {
@@ -2024,7 +2029,7 @@
     "snippet_category": [
       { "id": "technician_pants_blue", "text": "A pair of blue canvas work pants." },
       { "id": "technician_pants_gray", "text": "A pair of gray canvas work pants." },
-      { "id": "technician_pants_lightblue", "text": "A pair of light-blue canvas work pants." }
+      { "id": "technician_pants_lightblue", "text": "A pair of light blue canvas work pants." }
     ],
     "flags": [ "VARSIZE", "POCKETS", "STURDY", "WATERPROOF" ],
     "armor": [ { "encumbrance": [ 4, 9 ], "coverage": 100, "covers": [ "leg_l", "leg_r" ] } ]

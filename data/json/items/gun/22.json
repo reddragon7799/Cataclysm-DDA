@@ -84,7 +84,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "varmint rifle" },
-    "description": "A lightweight and modular pistol caliber hunting carbine, firing the low power .22 LR cartridge.  Before the Cataclysm, a mix of high customizability, cheap ammunition, and low recoil made this a very popular varmint rifle among civilian shooters.",
+    "description": "A lightweight and modular pistol-caliber hunting carbine, firing the low power .22 LR cartridge.  Before the Cataclysm, a mix of high customizability, cheap ammunition, and low recoil made this a very popular varmint rifle among civilian shooters.",
     "variant_type": "gun",
     "variants": [
       {
@@ -413,13 +413,17 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "pump action varmint rifle" },
-    "description": "A lightweight, wood framed pump action rifle, holding 15 rounds of .22 with an 18 inch barrel.  While pump actions tend to be largely shotguns, they can be made in calibers such as .22 LR.",
+    "description": "A lightweight, wood-framed pump action rifle, holding 15 rounds of .22 with an 18 inch barrel.  While pump actions tend to be largely shotguns, they can be made in calibers such as .22 LR.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "rossi_gallery",
         "name": { "str": "Rossi Gallery", "str_pl": "Rossi Galleries" },
+<<<<<<< Updated upstream
         "description": "A modern take on the Winchester 1890, the Rossi Gallery is a .22 LR rifle, notably using a pump action.  Much like a pump action shotgun, the magazine tube is below its 18 inch barrel and can hold 15 rounds.  While pump actions are quite often associated with shotguns, the mechanism can be applied to rifles as well, though in practice it's limited to .22 LR."
+=======
+        "description": "A modern take on the Winchester 1890, the Rossi Gallery is a .22 LR rifle, notably using a pump action.  Much like a pump action shotgun, the magazine tube is below its 18-inch barrel and can hold 15 rounds.  While pump actions are quite often associated with shotguns, the mechanism can be applied to rifles as well, though in practice it's limited to .22 LR."
+>>>>>>> Stashed changes
       }
     ],
     "weight": "2344 g",
@@ -450,7 +454,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": ".22 six-shooter" },
-    "description": "A revolver chambered in .22 LR, with 6 shots and a 6.5 inch barrel.",
+    "description": "A revolver chambered in .22 LR, with 6 shots and a 6.5-inch barrel.",
     "ascii_picture": "redhawk",
     "weight": "947 g",
     "volume": "442 ml",
@@ -471,7 +475,7 @@
       {
         "id": "rough_rider_pistol",
         "name": { "str": "Heritage Rough Rider 6.5\"", "str_pl": "Heritage Rough Riders 6.5\"" },
-        "description": "A cheap, single action revolver chambered in .22 LR.  While it makes for a handy plinking gun, the single action mechanism, size of the firearm, combined with the lack of a swing out cylinder makes for a less than ideal zombie fighting handgun."
+        "description": "A cheap, single-action revolver chambered in .22 LR.  While it makes for a handy plinking gun, the single-action mechanism and size of the firearm, combined with the lack of a swing out cylinder, makes for a less than ideal zombie fighting handgun."
       }
     ]
   },
@@ -481,7 +485,12 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "large .22 six-shooter" },
+<<<<<<< Updated upstream
     "description": "A revolver chambered in .22 LR, with 6 shots and a 9 inch barrel.",
+=======
+    "description": "A revolver chambered in .22 LR, with 6 shots and a 9-inch barrel.",
+    "ascii_picture": "redhawk",
+>>>>>>> Stashed changes
     "weight": "1046 g",
     "volume": "456 ml",
     "longest_side": "386 mm",
@@ -496,7 +505,7 @@
       {
         "id": "rough_rider_pistol",
         "name": { "str": "Heritage Rough Rider 9\"", "str_pl": "Heritage Rough Riders 9\"" },
-        "description": "A cheap, single action revolver chambered in .22 LR.  While it makes for a handy plinking gun, the single action mechanism, size of the firearm, combined with the lack of a swing out cylinder makes for a less than ideal zombie fighting handgun, even with the slightly increased performance from the longer barrel."
+        "description": "A cheap, single-action revolver chambered in .22 LR.  While it makes for a handy plinking gun, the single-action mechanism and size of the firearm, combined with the lack of a swing out cylinder, makes for a less than ideal zombie fighting handgun, even with the slightly increased performance from the longer barrel."
       }
     ]
   },
@@ -623,13 +632,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "tube fed varmint rifle" },
-    "description": "A lightweight and modular pistol caliber hunting carbine, firing the low power .22 LR cartridge.  Before the Cataclysm, a mix of high customizability, cheap ammunition, and low recoil made this a very popular varmint rifle among civilian shooters.",
+    "description": "A lightweight and modular pistol-caliber hunting carbine, firing the low-power .22 LR cartridge.  Before the Cataclysm, a mix of high customizability, cheap ammunition, and low recoil made this a very popular varmint rifle among civilian shooters.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "marlin60",
         "name": { "str": "Marlin Model 60" },
-        "description": "The Model 60 is a semi-automatic rifle chambered in .22 LR, and looks awfully familiar to a 10/22.  However, instead of a detachable magazine, it features a tubular magazine below the barrel.  While out of production, a large number of them have been made since the 60s, making it a very commonplace rifle."
+        "description": "The Model 60 is a semi-automatic rifle chambered in .22 LR, and looks awfully similar to a 10/22.  However, instead of a detachable magazine, it features a tubular magazine below the barrel.  While out of production, a large number of them have been made since the 60s, making it a very commonplace rifle."
       }
     ],
     "ascii_picture": "ruger1022",
@@ -663,7 +672,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "high capacity revolver" },
-    "description": "A revolver chambered in .22 LR, with 10 shots and a 6 inch barrel.",
+    "description": "A revolver chambered in .22 LR, with 10 shots and a 6-inch barrel.",
     "ascii_picture": "redhawk",
     "weight": "1307 g",
     "volume": "638 ml",
@@ -683,7 +692,7 @@
       {
         "id": "sw617",
         "name": { "str": "S&W 617" },
-        "description": "The S&W 617 is a fine revolver, chambered in .22 LR.  However, instead of more common 6 rounds revolvers come in, this revolver has a 10 round capacity cylinder.  While still a revolver, and to boot a revolver in .22 LR, 10 is still bigger than 6."
+        "description": "The S&W 617 is a fine revolver, chambered in .22 LR.  However, instead of the more common 6 rounds revolvers come in, this revolver has a 10-round capacity cylinder.  While still a revolver, and to boot a revolver in .22 LR, 10 is still bigger than 6."
       }
     ]
   },

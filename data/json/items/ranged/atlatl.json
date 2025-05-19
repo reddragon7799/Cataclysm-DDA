@@ -4,7 +4,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "atlatl" },
-    "description": "Although spear throwing contraptions were used throughout the entire world, this design in particular hails from Mesoamericas.  It was especially popular among Peruvian natives, despite the Nahuatl origin of the name.  It is essentially a carved piece of wooden shaft with a hollowed space to place the projectile of the same name.  It'll also do well as a melee weapon in a pinch.",
+    "description": "Although spear throwing contraptions were used throughout the entire world, this design in particular hails from Mesoamerica.  It was especially popular among Peruvian natives, despite the Nahuatl origin of the name.  It is essentially a carved piece of wooden shaft with a hollowed space to place the projectile of the same name.  It'll also do well as a melee weapon in a pinch.",
     "weight": "1200 g",
     "volume": "2100 ml",
     "symbol": "(",
@@ -40,10 +40,16 @@
   },
   {
     "id": "steel_atlatl_spear",
+<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
     "name": { "str": "steel tipped atlatl spear" },
     "description": "A steal tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
+=======
+    "type": "AMMO",
+    "name": { "str": "steel-tipped atlatl spear" },
+    "description": "A steel-tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
+>>>>>>> Stashed changes
     "weight": "280 g",
     "volume": "600 ml",
     "price": "10 USD",
@@ -62,10 +68,16 @@
   },
   {
     "id": "bronze_atlatl_spear",
+<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
     "name": { "str": "bronze tipped atlatl spear" },
     "description": "A bronze tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
+=======
+    "type": "AMMO",
+    "name": { "str": "bronze-tipped atlatl spear" },
+    "description": "A bronze-tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
+>>>>>>> Stashed changes
     "weight": "280 g",
     "volume": "600 ml",
     "price": "10 USD",

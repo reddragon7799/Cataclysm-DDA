@@ -66,7 +66,7 @@
       {
         "id": "floral_apron_cotton",
         "name": { "str": "floral long waist apron" },
-        "description": "It has a floral design and colored yellow, perfect for cooking outdoors.",
+        "description": "It has a floral design and is colored yellow, perfect for cooking outdoors.",
         "color": "yellow",
         "weight": 2,
         "append": true
@@ -202,7 +202,7 @@
       {
         "id": "floral_apron_cotton",
         "name": { "str": "floral short waist apron" },
-        "description": "It has a floral design and colored yellow, perfect for cooking outdoors.",
+        "description": "It has a floral design and is colored yellow, perfect for cooking outdoors.",
         "color": "yellow",
         "weight": 2,
         "append": true
@@ -329,7 +329,7 @@
       {
         "id": "floral_apron_cotton",
         "name": { "str": "floral cotton apron" },
-        "description": "It has a floral design and colored yellow, perfect for cooking outdoors.",
+        "description": "It has a floral design and is colored yellow, perfect for cooking outdoors.",
         "color": "yellow",
         "weight": 2,
         "append": true
@@ -448,7 +448,7 @@
     "subtypes": [ "ARMOR" ],
     "category": "armor",
     "name": { "str": "plastic apron" },
-    "description": "An apron made of plastic, provides good protection against accidental chemical splashes.",
+    "description": "An apron made of plastic, providing good protection against accidental chemical splashes.",
     "copy-from": "apron_leather",
     "weight": "391 g",
     "material": [ "plastic" ],
@@ -1169,7 +1169,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str_sp": "French maid clothes" },
-    "description": "The French maid dress, blue with a frilly white apron.",
+    "description": "A French maid dress, blue with a frilly white apron.",
     "weight": "250 g",
     "volume": "250 ml",
     "price": "50 USD",
@@ -1227,7 +1227,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str_sp": "short French maid clothes" },
-    "description": "The French maid dress, black with a frilly white apron.  This version is much lighter and shorter than normal.",
+    "description": "A French maid dress, black with a frilly white apron.  This version is much lighter and shorter than normal.",
     "weight": "150 g",
     "volume": "250 ml",
     "price": "50 USD",
@@ -1808,11 +1808,52 @@
         "description": "This one has a picture on it, <clothing_picture>"
       },
       {
+<<<<<<< Updated upstream
         "id": "text",
         "name": { "str": "text print t-shirt" },
         "append": true,
         "expand_snippets": true,
         "description": "This one has some text on it, it says \"<clothing_text>\"."
+=======
+        "id": "fda_approved",
+        "name": { "str": "FDA-Approved t-shirt" },
+        "description": "A light blue t-shirt with yellow block letters that say 'FDA Approved to treat all diseases'."
+      },
+      {
+        "id": "anxiety_superpower",
+        "name": { "str": "anxiety t-shirt" },
+        "description": "A t-shirt with the text 'Anxiety is my super power'."
+      },
+      {
+        "id": "visitryleh",
+        "name": { "str": "R'lyeh t-shirt" },
+        "description": "A t-shirt with the text 'Greetings from R'lyeh, home of Cthulhu'."
+      },
+      {
+        "id": "robot_finds_kitten",
+        "name": { "str": "robotfindskitten t-shirt" },
+        "description": "A t-shirt with the text 'Play robotfindskitten today'."
+      },
+      {
+        "id": "survived_apocalypse",
+        "name": { "str": "apocalypse survivor t-shirt" },
+        "description": "A t-shirt with the text 'I survived the apocalypse and all I got was this lousy T-shirt?'"
+      },
+      {
+        "id": "zombiebelief",
+        "name": { "str": "zombie believer t-shirt" },
+        "description": "A t-shirt with the text 'Zombies don't care whether or not you believe.'"
+      },
+      {
+        "id": "cthulhuprez1",
+        "name": { "str": "Cthulhu for President t-shirt", "str_pl": "Cthulhu for President t-shirts" },
+        "description": "A t-shirt with the text 'Cthulhu for President: Why vote for the lesser evil'."
+      },
+      {
+        "id": "cthulhuprez2",
+        "name": { "str": "Cthulhu for President t-shirt", "str_pl": "Cthulhu for President t-shirts" },
+        "description": "A t-shirt with the text 'Cthulhu for President: This time the stars are right'."
+>>>>>>> Stashed changes
       },
       {
         "id": "flag_shirt",

@@ -1733,7 +1733,7 @@
       {
         "id": "purple_white_varsity_jacket",
         "name": { "str": "Wizards varsity jacket" },
-        "description": "This one has a purple torso with white arms.  It has an angry looking old wizard on its back, holding its staff menacingly; below it writes \"WIZARDS\".",
+        "description": "This one has a purple torso with white arms.  It has an angry looking old wizard on its back, holding its staff menacingly; below it is written \"WIZARDS\".",
         "color": "magenta",
         "weight": 10,
         "append": true
@@ -1757,7 +1757,7 @@
       {
         "id": "yellow_black_varsity_jacket",
         "name": { "str": "NEURT varsity jacket" },
-        "description": "This one has a yellow torso and black arms.  \"New England University Robotics Team\" in small letters is written on front left.",
+        "description": "This one has a yellow torso and black arms.  \"New England University Robotics Team\" is written in small letters on front left.",
         "color": "yellow",
         "weight": 10,
         "append": true
@@ -1765,8 +1765,13 @@
       {
         "id": "black_red_varsity_jacket",
         "name": { "str": "Crimson Bulls varsity jacket" },
+<<<<<<< Updated upstream
         "description": "This one's torso is black and its arms are red.  It has an angry looking red bull ready to charge on its back.  Across the front writes \"BULLS\".",
         "color": "dark_gray",
+=======
+        "description": "This one's torso is black and its arms are red.  It has an angry-looking red bull ready to charge on its back.  Across the front is written \"BULLS\".",
+        "color": "black",
+>>>>>>> Stashed changes
         "weight": 10,
         "append": true
       },
@@ -1781,7 +1786,7 @@
       {
         "id": "green_varsity_jacket",
         "name": { "str": "Zombies varsity jacket" },
-        "description": "This one is completely green save for the white stripes around the wrists and the hip.  It has a sprinting zombie clad in football gear on the back, above it writes \"ZOMBIES\".",
+        "description": "This one is completely green save for the white stripes around the wrists and the hip.  It has a sprinting zombie clad in football gear on the back, with \"ZOMBIES\" written above it.",
         "color": "green",
         "weight": 10,
         "append": true

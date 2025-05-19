@@ -14,7 +14,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "King James Bible", "str_pl": "copies of the King James Bible" },
-    "description": "An English translation of the Christian Bible, which originated in England in the early 1600s.",
+    "description": "An English translation of the Christian Bible which originated in England in the early 1600s.",
     "weight": "368 g",
     "volume": "1 L",
     "copy-from": "holybook_abstract"
@@ -107,7 +107,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Children's Catholic Bible", "str_pl": "copies of a Children's Catholic Bibles" },
-    "description": "A small, lightweight Catholic Bible intended for children, containing a extremely easy to understand English writing and many illustrations.",
+    "description": "A small, lightweight Catholic Bible intended for children, containing easy-to-understand English writing and many illustrations.",
     "weight": "250 g",
     "volume": "700 ml",
     "copy-from": "holybook_abstract"
@@ -117,7 +117,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Children's Protestant Bible", "str_pl": "copies of a Children's Protestant Bibles" },
-    "description": "A small, lightweight Protestant Bible intended for children, containing a extremely easy to understand English writing and many illustrations.",
+    "description": "A small, lightweight Protestant Bible intended for children, containing easy-to-understand English writing and many illustrations.",
     "weight": "250 g",
     "volume": "700 ml",
     "copy-from": "holybook_abstract"
@@ -147,7 +147,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Westminster Catechism", "str_pl": "copies of the Westminster Catechism" },
-    "description": "The Westminster Shorter Catechism and the Westminster Larger Catechism into one single large, hardcover book.  It serves as the doctrinal standard in the Reformed tradition of Protestant Christianity, a concise and systematic summary of Christian beliefs, intended to be used for teaching and instruction (and also one of the Four Forms of Unity, depending on the denomination).  This catechism is also divided into a series of questions and answers, covering various aspects of theology, morality, and Christian living.",
+    "description": "The Westminster Shorter Catechism and the Westminster Larger Catechism in one large hardcover book.  It serves as the doctrinal standard in the Reformed tradition of Protestant Christianity, a concise and systematic summary of Christian beliefs, intended to be used for teaching and instruction (and also one of the Four Forms of Unity, depending on the denomination).  This catechism is also divided into a series of questions and answers, covering various aspects of theology, morality, and Christian living.",
     "weight": "1100 g",
     "volume": "2300 ml",
     "copy-from": "holybook_abstract"
@@ -157,7 +157,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Luther's Catechism", "str_pl": "copies of the Luther's Catechism" },
-    "description": "The Luther's Small Catechism and the Luther's Large Catechism into one single large, hardcover book.  It contains a summary of Christian doctrine and was intended to be used as a teaching tool for laypeople, particularly parents and pastors, to instruct them in the basic principles of the Christian faith.",
+    "description": "The Luther's Small Catechism and the Luther's Large Catechism in one large hardcover book.  It contains a summary of Christian doctrine and was intended to be used as a teaching tool for laypeople, particularly parents and pastors, to instruct them in the basic principles of the Christian faith.",
     "weight": "1100 g",
     "volume": "2300 ml",
     "copy-from": "holybook_abstract"
@@ -297,7 +297,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Anglican Book of Common Prayer", "str_pl": "copies of the Anglican Book of Common Prayer" },
-    "description": "A hardcover edition of the Anglican Book of Common Prayer.  It once held great significance in the Anglican Church, but still contain a collection of liturgical prayers, rites, catechisms and instructions that provide a standardized format for various religious services and ceremonies.",
+    "description": "A hardcover edition of the Anglican Book of Common Prayer.  It once held great significance in the Anglican Church, but still contains a collection of liturgical prayers, rites, catechisms and instructions that provide a standardized format for various religious services and ceremonies.",
     "weight": "720 g",
     "volume": "1100 ml",
     "copy-from": "holybook_abstract"
@@ -387,7 +387,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Mikagura-uta", "str_pl": "copies of the Mikagura-uta" },
-    "description": "A English translation of the Mikagura-uta, one of the most significant books within the Tenrikyo Religious Tradition.  It is a collection of hymns and prayers that serve as a guide for the followers of the Tenrikyo.",
+    "description": "A English translation of the Mikagura-uta, one of the most significant books within the Tenrikyo religious tradition.  It is a collection of hymns and prayers that serve as a guide for the followers of the Tenrikyo.",
     "weight": "830 g",
     "volume": "1050 ml",
     "copy-from": "holybook_abstract"
@@ -397,7 +397,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Osashizu", "str_pl": "copies of the Osashizu" },
-    "description": "A English translation of the Osashizu, one of the most significant books within the Tenrikyo Religious Tradition.  It serves as a guide for followers of the religion or people wishing to learn about it, providing spiritual teachings, ethical principles, and practical advice on various aspects of life.",
+    "description": "A English translation of the Osashizu, one of the most significant books within the Tenrikyo religious tradition.  It serves as a guide for followers of the religion or people wishing to learn about it, providing spiritual teachings, ethical principles, and practical advice on various aspects of life.",
     "weight": "400 g",
     "volume": "1 L",
     "copy-from": "holybook_abstract"
@@ -407,7 +407,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Doctrines of Tenrikyo", "str_pl": "copies of the Doctrines of Tenrikyo" },
-    "description": "A paperback English translation of Tenrikyo's official doctrine.  This book explains the basic teachings of the Tenrikyo Religious Tradition.",
+    "description": "A paperback English translation of Tenrikyo's official doctrine.  This book explains the basic teachings of the Tenrikyo religious tradition.",
     "weight": "368 g",
     "volume": "1 L",
     "copy-from": "holybook_abstract"
@@ -420,7 +420,7 @@
       "str": "The Life of Oyasama, Foundress of Tenrikyo",
       "str_pl": "copies of The Life of Oyasama, Foundress of Tenrikyo"
     },
-    "description": "A paperback English translation of Tenrikyo's hagiography of Miki Nakayama, foundress of the Tenrikyo Religious Tradition.",
+    "description": "A paperback English translation of Tenrikyo's hagiography of Miki Nakayama, foundress of the Tenrikyo religious tradition.",
     "weight": "600 g",
     "volume": "1 L",
     "copy-from": "holybook_abstract"
@@ -510,9 +510,14 @@
   },
   {
     "id": "holybook_leinster",
+<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "Book of Leinster", "str_pl": "copies of the Book of Leister" },
+=======
+    "type": "BOOK",
+    "name": { "str": "Book of Leinster", "str_pl": "copies of the Book of Leinster" },
+>>>>>>> Stashed changes
     "description": "A incredibly rare English translation of the Book of Leinster, a significant and ancient compilation of Irish literature and history, dating back to the 12th century.  It contains annals, genealogies, historical texts, legal tracts, secular and religious poetry and stories from Irish mythology, such as the epic tale \"Táin Bó Cúailnge\", which tells the story of the legendary warrior Cú Chulainn and the cattle raid of Cooley.",
     "weight": "1100 g",
     "volume": "1650 ml",
@@ -766,7 +771,7 @@
       },
       {
         "id": "holybook_east20",
-        "name": { "str": "Sacred Books of the East Vol. 20", "str_pl": "copies of the twenty volume of the Sacred Books of the East" },
+        "name": { "str": "Sacred Books of the East Vol. 20", "str_pl": "copies of the twentieth volume of the Sacred Books of the East" },
         "description": "It contains the Vinaya Texts, part 3/3: Kullavagga, from IV to XII.",
         "append": true
       },
@@ -774,7 +779,7 @@
         "id": "holybook_east21",
         "name": {
           "str": "Sacred Books of the East Vol. 21",
-          "str_pl": "copies of the twentieth-first volume of the Sacred Books of the East"
+          "str_pl": "copies of the twenty-first volume of the Sacred Books of the East"
         },
         "description": "It contains The Saddharma-Pundarika (or The Lotus of the True Law).",
         "append": true
@@ -837,7 +842,7 @@
         "id": "holybook_east28",
         "name": {
           "str": "Sacred Books of the East Vol. 28",
-          "str_pl": "copies of the twenty-eight volume of the Sacred Books of the East"
+          "str_pl": "copies of the twenty-eighth volume of the Sacred Books of the East"
         },
         "description": "It contains The Sacred Books of China, part 4/6, the texts of Confucianism: The Li Ki II (Book of Rites).",
         "append": true
@@ -927,7 +932,7 @@
         "id": "holybook_east38",
         "name": {
           "str": "Sacred Books of the East Vol. 38",
-          "str_pl": "copies of the thirty-eight volume of the Sacred Books of the East"
+          "str_pl": "copies of the thirty-eighth volume of the Sacred Books of the East"
         },
         "description": "It contains the Vedanta-Sutras, part 2/3: Commentary by Sankaracharya, part 2 of 2, and Adhyâya II to IV (Pâda III to IV).",
         "append": true
