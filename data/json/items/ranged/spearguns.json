@@ -112,7 +112,7 @@
     "symbol": "(",
     "color": "brown",
     "name": { "str": "double roller speargun" },
-    "description": "Underwater fishing device, this speargun has set of two rubber bands.  It doesn't make you able to load two spears, but it can put a bit more power into shot.  While highly effective when used underwater, it is nearly useless on dry land.",
+    "description": "Underwater fishing device, this speargun has set of two rubber bands.  It doesn't let you load two spears, but it can put a bit more power into shot.  While highly effective when used underwater, it is nearly useless on dry land.",
     "//": "https://amz.run/7XJA",
     "price": "355 USD 99 cent",
     "price_postapoc": "20 USD",

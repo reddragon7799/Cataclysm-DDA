@@ -4,7 +4,7 @@
     "type": "ITEM",
     "name": { "str": "standing mirror" },
     "looks_like": "f_bigmirror",
-    "description": "A full-length mirror mounted in a sleek aluminum frame.  Metal stand is currently folded.",
+    "description": "A full-length mirror mounted in a sleek aluminum frame.  The metal stand is currently folded.",
     "weight": "12977 g",
     "volume": "5450 ml",
     "longest_side": "165 cm",

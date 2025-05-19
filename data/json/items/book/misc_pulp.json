@@ -4,7 +4,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "pulp novel" },
-    "description": "A hardboiled detective tale filled with hard hitting action and intrigue.",
+    "description": "A hardboiled detective tale filled with hard-hitting action and intrigue.",
     "time": "18 m",
     "copy-from": "book_fict_soft_pulp_tpl"
   },

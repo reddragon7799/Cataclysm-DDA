@@ -47,7 +47,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "SIG P320 Compact" },
-    "description": "The P320 Compact is a semi-automatic, short recoil operated pistol.  This one is chambered for .357 SIG.",
+    "description": "The P320 Compact is a semi-automatic, short-recoil operated pistol.  This one is chambered for .357 SIG.",
     "ascii_picture": "sig_p320",
     "weight": "731 g",
     "volume": "462 ml",

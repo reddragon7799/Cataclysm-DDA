@@ -127,7 +127,7 @@
     "type": "ITEM",
     "id": "mil_plate",
     "name": { "str": "military composite plating" },
-    "description": "A thick sheet of military-grade armor; the best bullet-stopper you can stick on a vehicle.",
+    "description": "A thick sheet of military-grade armor, the best bullet-stopper you can stick on a vehicle.",
     "weight": "16500 g",
     "to_hit": { "grip": "bad", "length": "long", "surface": "any", "balance": "clumsy" },
     "color": "green",

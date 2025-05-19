@@ -484,7 +484,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "salvaged combat exoskeleton mk3" },
-    "description": "This is supposed to be a combat exoskeleton of third generation but its environmental suit is severely damaged and the mechanical components are non functional.  A variety of webbing, magnets, and clips allows the attachment of special armor plating onto the frame.",
+    "description": "This is supposed to be a combat exoskeleton of third generation but its environmental suit is severely damaged and the mechanical components are nonfunctional.  A variety of webbing, magnets, and clips allows the attachment of special armor plating onto the frame.",
     "looks_like": "power_armor_light",
     "proportional": { "volume": 0.5, "weight": 0.5, "price": 0.1, "price_postapoc": 0.1 },
     "warmth": 0,

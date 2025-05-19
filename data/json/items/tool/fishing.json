@@ -236,7 +236,7 @@
     "subtypes": [ "TOOL" ],
     "looks_like": "pointy_stick",
     "name": { "str": "wooden hand fishing reel" },
-    "description": "A short wooden rod with a section on one end with fishing line wrapped around it, with a notch to put the string though to help pull in fish.  It is not as effective as a normal fishing pole, but is much more compact than them.",
+    "description": "A short wooden rod with a section on one end with fishing line wrapped around it, with a notch to put the string though to help pull in fish.  It is not as effective as a normal fishing pole, but is much more compact.",
     "weight": "500 g",
     "volume": "380 ml",
     "longest_side": "150 mm",

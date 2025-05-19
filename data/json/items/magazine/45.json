@@ -337,7 +337,7 @@
       {
         "id": "glock_21mag",
         "name": { "str": "Glock 21 13-round magazine" },
-        "description": "A standard capacity magazine for use with the Glock 21."
+        "description": "A standard-capacity magazine for use with the Glock 21."
       }
     ],
     "weight": "85 g",
@@ -455,7 +455,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "M1911 7-round magazine" },
-    "description": "A military issue 7-round magazine for use with the M1911 handgun.",
+    "description": "A military-issue 7-round magazine for use with the M1911 handgun.",
     "weight": "70 g",
     "volume": "61 ml",
     "longest_side": "132 mm",

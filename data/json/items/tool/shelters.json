@@ -22,7 +22,7 @@
     "symbol": ";",
     "color": "brown",
     "name": { "str": "large damaged shelter" },
-    "description": "A huge shelter made of sticks and skins, very bulky but with plenty of space.  This is broken and cannot be deployed.",
+    "description": "A huge shelter made of sticks and skins, very bulky but with plenty of space.  This one is broken and cannot be deployed.",
     "price": "100 USD",
     "price_postapoc": "1 USD 50 cent",
     "material": [ "wood", "leather" ],

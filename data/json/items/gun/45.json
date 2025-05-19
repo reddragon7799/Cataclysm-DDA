@@ -8,7 +8,7 @@
     "reload_noise_volume": 10,
     "//": [
       "Yes, I know it's not really a glock smg.",
-      "It takes glock magazines, and it's own special one that I am also renaming to a glock magazine",
+      "It takes glock magazines, and its own special one that I am also renaming to a glock magazine",
       "so, I'm calling it a glock smg."
     ],
     "name": { "str": "Glock submachine gun" },
@@ -127,7 +127,7 @@
       {
         "id": "m1911_MEU",
         "name": { "str": "M45A1 pistol" },
-        "description": "The M45A1 supplanted earlier M45 MEUSOC pistols in use by Force Recon elements of Marine Expeditionary Units.  Where the original M45 pistols were gutted M1911A1s hand-fitted by USMC armorers, the updated M45A1s are hardly different from any other commercial 1911 design, save for their dual recoil springs.  Most were replaced in 2016 with Glock 19s due to logistics issues."
+        "description": "The M45A1 supplanted earlier M45 MEUSOC pistols in use by Force Recon elements of Marine Expeditionary Units.  Where the original M45 pistols were gutted M1911A1s hand-fitted by USMC armorers, the updated M45A1s are hardly different from any other commercial 1911 design, save for their dual recoil springs.  Most were replaced with Glock 19s in 2016 due to logistics issues."
       }
     ],
     "ascii_picture": "m1911",
@@ -189,7 +189,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "H&K USC 45 carbine" },
-    "description": "A compact, lightweight carbine chambering the .45 ACP pistol round.  Resembling the popular UMP submachine gun in both its blowback operating system and lightweight polymer frame construction, this civilian variant is distinguished by its skeletonized stock and 16 inch barrel, leaving it unable to accommodate standard UMP parts.",
+    "description": "A compact, lightweight carbine chambering the .45 ACP pistol round.  Resembling the popular UMP submachine gun in both its blowback operating system and lightweight polymer frame construction, this civilian variant is distinguished by its skeletonized stock and 16-inch barrel, leaving it unable to accommodate standard UMP parts.",
     "weight": "2781 g",
     "volume": "6116 ml",
     "longest_side": "900 mm",
@@ -468,7 +468,7 @@
       {
         "id": "greasegun",
         "name": { "str": "M3 submachine gun" },
-        "description": "An American-made submachine gun developed during WWII as an alternative to Thompson M1928A1 and used at least till early 1990s.  Simple, cheap, and somewhat crude, the M3 was still quite an effective weapon, mostly made from sheet metal to reduce costs and speed up production.  In times of active use, it was considered as a disposable weapon, which is more expedient to replace than to repair.  Unfortunately, you cannot afford such wastefulness, unlike this submachine gun, which is devoid of even a fire selector for semi-auto fire."
+        "description": "An American-made submachine gun developed during WWII as an alternative to the Thompson M1928A1 and used at least until the early 1990s.  Simple, cheap, and somewhat crude, the M3 was still quite an effective weapon, mostly made from sheet metal to reduce costs and speed up production.  In times of active use, it was considered as a disposable weapon, which is more expedient to replace than to repair.  Unfortunately, you cannot afford such wastefulness, unlike this submachine gun, which is devoid of even a fire selector for semi-auto fire."
       }
     ],
     "weight": "3700 g",

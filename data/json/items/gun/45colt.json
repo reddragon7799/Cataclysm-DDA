@@ -40,7 +40,7 @@
       {
         "id": "colt_saa",
         "name": { "str": "Colt Single Action Army", "str_pl": "Colt Single Action Armies" },
-        "description": "A famous revolver for many westerns, the Colt Single Action Army has seen plenty of military service, production ends, and production restarts.  While originally in a large amount of chamberings, it is mostly found in .45 Colt chamberings today.  While reloading is slow due to the lack of a swing-out cylinder, it was still much faster than earlier revolvers of the time thanks to using metallic cartridges.  It's also sometimes referred to as the Peacemaker, Model P, M1873 or shortened to SAA.",
+        "description": "A famous revolver seen in many westerns, the Colt Single Action Army has seen plenty of military service, production ends, and production restarts.  While originally available in a large amount of chamberings, it is mostly found in .45 Colt today.  While reloading is slow due to the lack of a swing-out cylinder, it was still much faster than earlier revolvers of the time thanks to the use of metallic cartridges.  It's also sometimes referred to as the Peacemaker, Model P, or M1873, or shortened to SAA.",
         "weight": 1
       },
       {
@@ -71,13 +71,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": ".45/.410 shotshell revolver" },
-    "description": "A stainless steel 5 shot revolver, capable of firing .410 shells or 45 Colt cartridges.",
+    "description": "A stainless steel 5-shot revolver, capable of firing .410 shells or 45 Colt cartridges.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "taurus_judge",
         "name": { "str": "Taurus Judge" },
-        "description": "Marketed for home defense, the Taurus Judge is a 5 shot cylinder revolver, capable of firing .410 shotshells or .45 Colt cartridges out of it's 3 inch barrel.  While it doesn't compete ballistically with a proper rifle, or even a full length revolver, it's still a handy handgun against the undead and soon to be."
+        "description": "Marketed for home defense, the Taurus Judge is a 5-shot cylinder revolver, capable of firing .410 shotshells or .45 Colt cartridges out of its 3-inch barrel.  While it doesn't compete ballistically with a proper rifle, or even a full-length revolver, it's still a handy handgun against the undead and soon-to-be."
       }
     ],
     "weight": "822 g",

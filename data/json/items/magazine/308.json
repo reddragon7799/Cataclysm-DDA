@@ -46,13 +46,13 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "heavy automatic rifle 20-round magazine" },
-    "description": "A military issue 20-round steel box magazine for the heavy automatic rifle.",
+    "description": "A military-issue 20-round steel box magazine for the heavy automatic rifle.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "falmag",
         "name": { "str": "FAL 20-round magazine" },
-        "description": "A military issue 20-round steel box magazine for the FN FAL rifle."
+        "description": "A military-issue 20-round steel box magazine for the FN FAL rifle."
       }
     ],
     "weight": "240 g",
@@ -145,7 +145,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "M14 20-round magazine" },
-    "description": "A military issue 20-round steel box magazine compatible with M14 pattern rifles.",
+    "description": "A military-issue 20-round steel box magazine compatible with M14 pattern rifles.",
     "weight": "231 g",
     "//2": "length 6.1 in, width 1.012 in, height 3.1 in, raw 313.6 ml, trim 1%",
     "volume": "311 ml",
@@ -267,7 +267,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "SCAR-H 20-round magazine" },
-    "description": "A military issue 20-round steel box magazine for the FN SCAR-H rifle.",
+    "description": "A military-issue 20-round steel box magazine for the FN SCAR-H rifle.",
     "weight": "242 g",
     "volume": "354 ml",
     "longest_side": "165 mm",

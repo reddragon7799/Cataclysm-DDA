@@ -40,7 +40,7 @@
     "copy-from": "spare_part",
     "type": "ITEM",
     "name": { "str": "5-point harness", "str_pl": "5-point harnesses" },
-    "description": "A harness made of five belts meant to be mounted on vehicle to fasten a passenger securely to their seat.",
+    "description": "A harness made of five belts meant to be mounted on a vehicle to fasten a passenger securely to their seat.",
     "material": [ "nylon", "steel" ],
     "weight": "2204 g",
     "volume": "750 ml",

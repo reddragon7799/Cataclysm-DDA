@@ -401,7 +401,7 @@
     "name": { "str_sp": "fermented fertilizer liquid" },
     "volume": "500 ml",
     "weight": "400 g",
-    "description": "A mixture of fermented biomass, will become liquid fertilizer after simple treatment.",
+    "description": "A mixture of fermented biomass that will become liquid fertilizer after simple treatment.",
     "copy-from": "fertilizer_liquid",
     "price": "0 cent",
     "price_postapoc": "0 cent",

@@ -202,7 +202,7 @@
     "type": "ITEM",
     "category": "spare_parts",
     "name": { "str": "panoramic lens", "str_pl": "panoramic lenses" },
-    "description": "A relatively broad strip of chemical and impact-resistant polycarbonate plastic, most commonly used for the construction of wide-view visors and single-element eye pieces that offer maximal vision.",
+    "description": "A relatively broad strip of chemical- and impact-resistant polycarbonate plastic, most commonly used for the construction of wide-view visors and single-element eye pieces that offer maximal vision.",
     "weight": "24 g",
     "volume": "20 ml",
     "longest_side": "17 cm",

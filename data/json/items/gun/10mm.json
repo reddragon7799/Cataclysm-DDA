@@ -187,7 +187,7 @@
       {
         "id": "m1911_10",
         "name": { "str": "Colt Delta Elite pistol" },
-        "description": "A modernized, match-grade variant of the venerable M1911 chambered in hard-hitting 10mm Auto.  Early variants were known to crack frames; modern 1911s, like this one, are slotted to prevent such crack formation."
+        "description": "A modernized, match-grade variant of the venerable M1911, chambered in hard-hitting 10mm Auto.  Early variants were known to crack frames; modern 1911s, like this one, are slotted to prevent such crack formation."
       }
     ],
     "weight": "1077 g",
@@ -214,7 +214,7 @@
       {
         "id": "witness_10",
         "name": { "str": "EAA Witness 10mm pistol" },
-        "description": "The EAA Witness is a modified variant of the CZ-75, produced in Italy by Tanfoglio.  This is the standard steel framed version chambered in 10mm Auto."
+        "description": "The EAA Witness is a modified variant of the CZ-75, produced in Italy by Tanfoglio.  This is the standard steel-framed version, chambered in 10mm Auto."
       }
     ],
     "weight": "936 g",
@@ -287,7 +287,7 @@
     "subtypes": [ "GUN" ],
     "//": [
       "Yes, I know it's not really a glock smg.",
-      "It takes glock magazines, and it's own special one that I am also renaming to a glock magazine",
+      "It takes glock magazines, and its own special one that I am also renaming to a glock magazine",
       "so, I'm calling it a glock smg."
     ],
     "name": { "str": "Glock submachine gun" },

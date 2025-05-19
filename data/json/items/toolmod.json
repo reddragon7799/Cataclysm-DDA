@@ -69,7 +69,7 @@
     "subtypes": [ "TOOLMOD" ],
     "category": "spare_parts",
     "name": { "str": "light battery mod" },
-    "description": "A battery compartment mod that allows the use of light and ultra-light batteries in tools that otherwise could not.",
+    "description": "A battery compartment mod that allows the use of light and ultra-light batteries in tools that otherwise could not use them.",
     "color": "light_green",
     "acceptable_ammo": [ "battery" ],
     "pocket_mods": [
@@ -87,7 +87,7 @@
     "subtypes": [ "TOOLMOD" ],
     "category": "spare_parts",
     "name": { "str": "medium battery mod" },
-    "description": "A battery compartment mod that allows the use of medium batteries in tools that otherwise could not.",
+    "description": "A battery compartment mod that allows the use of medium batteries in tools that otherwise could not use them.",
     "color": "light_green",
     "acceptable_ammo": [ "battery" ],
     "pocket_mods": [
@@ -101,7 +101,7 @@
     "subtypes": [ "TOOLMOD" ],
     "category": "spare_parts",
     "name": { "str": "tool battery mod" },
-    "description": "A battery compartment mod that allows the use of tool batteries in tools that otherwise could not.",
+    "description": "A battery compartment mod that allows the use of tool batteries in tools that otherwise could not use them.",
     "color": "light_green",
     "acceptable_ammo": [ "battery" ],
     "pocket_mods": [

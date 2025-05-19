@@ -1415,7 +1415,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "armored jeans", "str_pl": "pairs of armored jeans" },
-    "description": "A pair of jeans reinforced with hard plastic knee pads and metal sheets.  The end product is not very sturdy and somewhat cumbersome, but protective.",
+    "description": "A pair of jeans reinforced with hard plastic knee pads and metal sheets.  The end product is somewhat cumbersome and not very sturdy, but protective.",
     "weight": "3810 g",
     "volume": "3500 ml",
     "price": "100 USD",
@@ -1654,7 +1654,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_light_leg_guard",
     "name": { "str": "high steel light leg guard" },
-    "description": "A light leg guard, 1.25 mm at the thickest.  Made with high steel offering excellent protection.",
+    "description": "A light leg guard, 1.25 mm at the thickest.  Made with high steel, offering excellent protection.",
     "replace_materials": { "lc_steel": "hc_steel", "lc_steel_chain": "hc_steel_chain" }
   },
   {
@@ -1691,7 +1691,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_light_leg_guard",
     "name": { "str": "tempered light leg guard" },
-    "description": "A light leg guard, 1.25 mm at the thickest.  The medium steel has been quenched and tempered, offering top of the line protection.",
+    "description": "A light leg guard, 1.25 mm at the thickest.  The medium steel has been quenched and tempered, offering top-of-the-line protection.",
     "replace_materials": { "lc_steel": "qt_steel", "lc_steel_chain": "qt_steel_chain" }
   },
   {
@@ -1772,7 +1772,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_leg_guard",
     "name": { "str": "high steel leg guard" },
-    "description": "A leg guard, 1.75 mm at the thickest.  Made with high steel offering excellent protection.",
+    "description": "A leg guard, 1.75 mm at the thickest.  Made with high steel, offering excellent protection.",
     "replace_materials": { "lc_steel": "hc_steel", "lc_steel_chain": "hc_steel_chain" }
   },
   {
@@ -1808,7 +1808,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_leg_guard",
     "name": { "str": "tempered leg guard" },
-    "description": "A leg guard, 1.75 mm at the thickest.  The medium steel has been quenched and tempered, offering top of the line protection.",
+    "description": "A leg guard, 1.75 mm at the thickest.  The medium steel has been quenched and tempered, offering top-of-the-line protection.",
     "replace_materials": { "lc_steel": "qt_steel", "lc_steel_chain": "qt_steel_chain" }
   },
   {
@@ -1889,7 +1889,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_heavy_leg_guard",
     "name": { "str": "high steel heavy leg guard" },
-    "description": "A heavy leg guard, 2.25 mm at the thickest.  Made with high steel offering excellent protection.",
+    "description": "A heavy leg guard, 2.25 mm at the thickest.  Made with high steel, offering excellent protection.",
     "replace_materials": { "lc_steel": "hc_steel", "lc_steel_chain": "hc_steel_chain" }
   },
   {
@@ -1925,7 +1925,7 @@
     "subtypes": [ "ARMOR" ],
     "copy-from": "armor_lc_heavy_leg_guard",
     "name": { "str": "tempered heavy leg guard" },
-    "description": "A heavy leg guard, 2.25 mm at the thickest.  The medium steel has been quenched and tempered, offering top of the line protection.",
+    "description": "A heavy leg guard, 2.25 mm at the thickest.  The medium steel has been quenched and tempered, offering top-of-the-line protection.",
     "replace_materials": { "lc_steel": "qt_steel", "lc_steel_chain": "qt_steel_chain" }
   },
   {
@@ -1998,7 +1998,7 @@
     "subtypes": [ "ARMOR" ],
     "category": "armor",
     "name": { "str": "cloth-padded pants", "str_pl": "pairs of cloth-padded pants" },
-    "description": "A pair of tough canvas pants with sections of cotton sewn onto it in a crossing pattern, clearly done by an amateur.",
+    "description": "A pair of tough canvas pants with sections of cotton sewn onto them in a crossing pattern, clearly done by an amateur.",
     "weight": "1970 g",
     "volume": "2500 ml",
     "price_postapoc": "12 USD",

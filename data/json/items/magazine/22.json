@@ -113,7 +113,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "25-round varmint magazine" },
-    "description": "An extended capacity 25-round magazine, for use with .22 caliber varmint rifles.",
+    "description": "An extended-capacity 25-round magazine, for use with .22 caliber varmint rifles.",
     "variant_type": "gun",
     "variants": [
       {
@@ -140,7 +140,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "10-round varmint magazine" },
-    "description": "A flush fitting 10-round rotary magazine, for use with .22 caliber varmint rifles.",
+    "description": "A flush-fitting 10-round rotary magazine, for use with .22 caliber varmint rifles.",
     "variant_type": "gun",
     "variants": [
       {
@@ -168,7 +168,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "15-round varmint magazine" },
-    "description": "An extended capacity 15-round magazine, for use with .22 caliber varmint rifles.",
+    "description": "An extended-capacity 15-round magazine, for use with .22 caliber varmint rifles.",
     "variant_type": "gun",
     "variants": [
       {
@@ -201,7 +201,7 @@
       {
         "id": "ruger1022mag_30",
         "name": { "str": "Ruger 10/22 30-round drum magazine" },
-        "description": "The ProMag 30 round drum magazine is a high capacity after-market 10/22 magazine.  While a whole lot lighter and handier than larger drum mags, the fact that the capacity isn't much higher than a stick magazine makes this an unpopular choice, as it still comes with all the reliability issues drum magazines have."
+        "description": "The ProMag 30-round drum magazine is a high-capacity aftermarket 10/22 magazine.  While a whole lot lighter and handier than larger drum mags, the fact that the capacity isn't much higher than a stick magazine makes this an unpopular choice, as it still comes with all the reliability issues drum magazines have."
       }
     ],
     "weight": "232 g",
@@ -224,7 +224,7 @@
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "32-round varmint magazine" },
-    "description": "An extended capacity 32-round magazine, for use with .22 caliber varmint rifles.",
+    "description": "An extended-capacity 32-round magazine, for use with .22 caliber varmint rifles.",
     "variant_type": "gun",
     "variants": [
       {
@@ -259,7 +259,7 @@
       {
         "id": "ruger1022mag_55",
         "name": { "str": "Ruger 10/22 55-round drum magazine" },
-        "description": "The ProMag 55 round drum magazine is a high capacity after-market 10/22 magazine.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
+        "description": "The ProMag 55-round drum magazine is a high-capacity aftermarket 10/22 magazine.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
       }
     ],
     "weight": "426 g",
@@ -288,7 +288,7 @@
       {
         "id": "ruger1022mag_70",
         "name": { "str": "Ruger 10/22 70-round drum magazine" },
-        "description": "The ProMag 70 round drum magazine is a high capacity after-market 10/22 magazine.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
+        "description": "The ProMag 70-round drum magazine is a high-capacity aftermarket 10/22 magazine.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
       }
     ],
     "weight": "659 g",
@@ -317,7 +317,7 @@
       {
         "id": "ruger1022mag_110",
         "name": { "str": "Ruger 10/22 110-round drum magazine" },
-        "description": "The GSG-16 110 round drum magazine is the highest capacity 10/22 magazine on the (after)-market.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
+        "description": "The GSG-16 110-round drum magazine is the highest capacity 10/22 magazine on the (after)-market.  While cumbersome, heavy, and unreliable, the capacity is no doubt a selling factor.  While usually range toys, these mags may just make surviving a little bit easier."
       }
     ],
     "weight": "1492 g",
@@ -373,7 +373,7 @@
       {
         "id": "cp33_mag",
         "name": { "str": "CP33 33-round magazine" },
-        "description": "The CP33's magazine is a polymer body quad stack with 4 rows of .22 rounds, which gives it the ability to cram in 33 rounds into the magazine."
+        "description": "The CP33's magazine is a polymer body quad stack with 4 rows of .22 rounds, which gives it the ability to cram 33 rounds into the magazine."
       }
     ],
     "weight": "48 g",
@@ -400,7 +400,7 @@
       {
         "id": "cp33_mag_50",
         "name": { "str": "CP33 50-round magazine" },
-        "description": "CP33 33-round magazine has the ability to accept extensions, and this one has a 17-round extension to bring the total up to a staggering 50 rounds of .22 ammunition."
+        "description": "The CP33 33-round magazine has the ability to accept extensions, and this one has a 17-round extension to bring the total up to a staggering 50 rounds of .22 ammunition."
       }
     ],
     "weight": "84 g",

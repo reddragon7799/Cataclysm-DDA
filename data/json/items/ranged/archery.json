@@ -10,7 +10,7 @@
     "name": { "str": "crude wooden arrow" },
     "symbol": "=",
     "color": "green",
-    "description": "A crude pointed wooden shaft with a notch at the back.",
+    "description": "A crude, pointed wooden shaft with a notch at the back.",
     "material": [ "wood" ],
     "damage": { "damage_type": "stab", "constant_damage_multiplier": 0.75 },
     "recovery_chance": 50
@@ -231,7 +231,7 @@
     "symbol": "=",
     "color": "light_green",
     "looks_like": "arrow_fire_hardened_fletched",
-    "description": "A fletched lance carved from inscrutable green stone.  Impractically heavy, its difficult to imagine who or what could have fired it from a bow.",
+    "description": "A fletched lance carved from inscrutable green stone.  Impractically heavy, it's difficult to imagine who or what could have fired it from a bow.",
     "material": [ "monolith_heavy" ],
     "volume": "100 ml",
     "price_postapoc": "10 USD",

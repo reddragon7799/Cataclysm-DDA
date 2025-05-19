@@ -3,7 +3,7 @@
     "type": "ITEM",
     "id": "teddy_bear",
     "name": { "str": "plush toy" },
-    "description": "A manufactured plush toy.  This is the default variant, if you see it something went wrong.",
+    "description": "A manufactured plush toy.  This is the default variant.  If you see it, something went wrong.",
     "category": "other",
     "material": [ "cotton" ],
     "weight": "900 g",
@@ -90,13 +90,13 @@
       {
         "id": "toy_plush_bobcat",
         "name": { "str": "bobcat plushie" },
-        "description": "A soft, cute bobcat plushie with a cute, tufted pair of ears, a fluffy tail and soft brown fur.  It has embroidered both soft whiskers and claws that add a touch of realism to its cute and playful design.",
+        "description": "A soft, cute bobcat plushie with a cute, tufted pair of ears, a fluffy tail and soft brown fur.  It has both soft whiskers and claws embroidered on that add a touch of realism to its cute and playful design.",
         "weight": 1
       },
       {
         "id": "toy_plush_eagle",
         "name": { "str": "eagle plushie" },
-        "description": "A cuddly and majestic bald eagle plushie with soft, brown and white cotton faux feathers, a hooked, soft beak, and a patriotic expression.  It has a pair of special eyes that glow as brightly as the stars and stripes of Old Glory, the perfect partner to fend off your enemies in the Cataclysm.",
+        "description": "A cuddly and majestic bald eagle plushie with soft, brown and white cotton faux feathers, a hooked, soft beak, and a patriotic expression.  It has a pair of special eyes that glow as brightly as the stars and stripes of Old Glory.  The perfect partner to fend off your enemies in the Cataclysm.",
         "weight": 1
       },
       {
@@ -162,7 +162,7 @@
       {
         "id": "toy_plush_iguana",
         "name": { "str": "iguana plushie" },
-        "description": "A cuddly iguana plushie with soft green scales, big eyes, and a friendly, curious expression.  It possess a special ribbed texture to mimic the skin of a real iguana.",
+        "description": "A cuddly iguana plushie with soft green scales, big eyes, and a friendly, curious expression.  It possesses a special ribbed texture to mimic the skin of a real iguana.",
         "weight": 1
       },
       {
@@ -210,7 +210,7 @@
       {
         "id": "toy_plush_walrus",
         "name": { "str": "walrus plushie" },
-        "description": "A big, soft and cuddly walrus plushie with fluffy brown fur, cute, soft tusks, and big, wise soulful eyes.",
+        "description": "A big, soft and cuddly walrus plushie with fluffy brown fur, cute, soft tusks, and big, wise, soulful eyes.",
         "weight": 1
       },
       {
@@ -222,7 +222,7 @@
       {
         "id": "toy_plush_bullfrog",
         "name": { "str": "frog plushie" },
-        "description": "A frog plushie with soft, green, and bumpy skin, big, playful eyes, and typical frog legs.  This plushie produces realistic croaking sounds when squeezed and a special texture that makes it fun to squeeze and manipulate.  Or is it a frog?  You can't really tell.",
+        "description": "A frog plushie with soft, green, and bumpy skin, big, playful eyes, and typical frog legs.  This plushie produces realistic croaking sounds when squeezed and has a special texture that makes it fun to squeeze and manipulate.  Or is it a toad?  You can't really tell.",
         "weight": 1
       },
       {
@@ -252,31 +252,31 @@
       {
         "id": "toy_plush_lion",
         "name": { "str": "lion plushie" },
-        "description": "This bright, extremely cute lion plushie features long, soft, and golden-colored fur and a extremely playful demeanor.  On the label it says that it is an ambassador of its species, and that the amounts collected in the sales of the plushies were donated to help the conservation of the species.  Surely now, without many humans, maybe these animals don't have to worry so much about their habitat being destroyed.",
+        "description": "This bright, extremely cute lion plushie features long, soft, and golden-colored fur and a extremely playful demeanor.  On the label it says that it is an ambassador of its species, and that the amounts collected in the sales of the plushies were donated to help their conservation.  Surely now, without many humans, maybe these animals don't have to worry so much about their habitat being destroyed.",
         "weight": 1
       },
       {
         "id": "toy_plush_tarantula",
         "name": { "str": "tarantula plushie" },
-        "description": "A somewhat scary, but cuddly tarantula plushie with soft, fuzzy brown fur and big, curious eyes.",
+        "description": "A somewhat scary but cuddly tarantula plushie with soft, fuzzy brown fur and big, curious eyes.",
         "weight": 1
       },
       {
         "id": "toy_plush_ant",
         "name": { "str": "ant plushie" },
-        "description": "A ant plushie with a sturdy, hard yet soft shell mimic, and big, inquisitive eyes.",
+        "description": "An ant plushie with a sturdy, hard yet soft imitation shell and big, inquisitive eyes.",
         "weight": 1
       },
       {
         "id": "toy_plush_ladybug",
         "name": { "str": "ladybug plushie" },
-        "description": "A cute and lovable ladybug plushie with soft, red and black polkadotted wings and big, friendly eyes.  This plushie features a special retractable spotted soft wing mechanic sewed directly into the body that gives it the authentic appearance of a ladybug about to fly.",
+        "description": "A cute and lovable ladybug plushie with soft, red and black polka-dotted wings and big, friendly eyes.  This plushie features a special retractable spotted soft wing mechanism sewed directly into the body that gives it the authentic appearance of a ladybug about to fly.",
         "weight": 1
       },
       {
         "id": "toy_plush_crab",
         "name": { "str": "crab plushie" },
-        "description": "An amazing crab plushie with soft, textured blue and red bumpy shell and big, curious eyes.",
+        "description": "An amazing crab plushie with a soft-textured blue and red bumpy shell and big, curious eyes.",
         "weight": 1
       },
       {
@@ -288,7 +288,7 @@
       {
         "id": "toy_plush_camel",
         "name": { "str": "camel plushie" },
-        "description": "A cuddly and sweet camel plushie with two soft humps, tan fur and big, soulful eyes.",
+        "description": "A cuddly and sweet camel plushie with two soft humps, tan fur, and big, soulful eyes.",
         "weight": 1
       },
       {
@@ -327,7 +327,7 @@
     "type": "ITEM",
     "id": "shark_plushie",
     "name": { "str": "shark plushie" },
-    "description": "A somewhat large, mass produced shark plushie.  Meant to provide comfort to people of all ages.",
+    "description": "A somewhat large, mass-produced shark plushie.  Meant to provide comfort to people of all ages.",
     "category": "other",
     "material": [ "cotton" ],
     "weight": "625 g",
@@ -343,7 +343,7 @@
     "type": "ITEM",
     "id": "toy_figurine_large",
     "name": { "str": "large figurine" },
-    "description": "A large manufactured figurine.  This is the default variant, if you see it something went wrong.",
+    "description": "A large manufactured figurine.  This is the default variant.  If you see it, something went wrong.",
     "category": "other",
     "material": [ "plastic" ],
     "weight": "500 g",
@@ -372,7 +372,7 @@
       {
         "id": "toy_figure_t800",
         "name": { "str": "robot figurine" },
-        "description": "A very intricate looking model of a robotic skeleton with red eyes and a futuristic weapon in its hand."
+        "description": "A very intricate-looking model of a robotic skeleton with red eyes and a futuristic weapon in its hand."
       },
       {
         "id": "toy_figure_caiman",
@@ -393,12 +393,12 @@
       {
         "id": "toy_figurine_smoker",
         "name": { "str": "zombie figurine" },
-        "description": "A nasty looking figurine of a mutant zombie, with a large tongue sprouting from its face.  You thankfully haven't encountered something like that yet."
+        "description": "A nasty-looking figurine of a mutant zombie, with a large tongue sprouting from its face.  You thankfully haven't encountered something like that yet."
       },
       {
         "id": "toy_figure_alien",
         "name": { "str": "alien figurine" },
-        "description": "An expensive looking figurine of a gnarly, jet-black alien covered in menacing looking spines."
+        "description": "An expensive-looking figurine of a gnarly, jet-black alien covered in menacing looking spines."
       }
     ]
   },
@@ -406,7 +406,7 @@
     "type": "ITEM",
     "id": "toy_figurine",
     "name": { "str": "figurine" },
-    "description": "A normal-sized manufactured figurine.  This is the default variant, if you see it something went wrong.",
+    "description": "A normal-sized manufactured figurine.  This is the default variant.  If you see it, something went wrong.",
     "category": "other",
     "material": [ "plastic" ],
     "weight": "125 g",

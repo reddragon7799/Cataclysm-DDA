@@ -13,7 +13,7 @@
     "volume": "250 ml",
     "weight": "10 g",
     "symbol": "@",
-    "description": "This defies easy description, it feels solid but the surface is yielding.  Looking at it you have a strange desire to call it a shelter.",
+    "description": "This defies easy description; it feels solid, but the surface is yielding.  Looking at it you have a strange desire to call it a shelter.",
     "flags": [ "SINGLE_USE" ]
   },
   {
@@ -28,7 +28,7 @@
       "description": "Seems like a random spatial distortion.",
       "effect_on_conditions": [ "EOC_PORTAL_TELEPORT_UNSTABLE_RIFT" ]
     },
-    "description": "This defies easy description, it feels solid but the surface is yielding.  Looking at it you have a strange desire to call it a door."
+    "description": "This defies easy description; it feels solid, but the surface is yielding.  Looking at it you have a strange desire to call it a door."
   },
   {
     "type": "ITEM",
@@ -42,6 +42,6 @@
       "description": "Seems like it could calm local conditions.",
       "effect_on_conditions": [ "EOC_CANCEL_PORTAL_STORM" ]
     },
-    "description": "This defies easy description, it feels solid but the surface is yielding.  Looking at it you are reminded of the calm at the end of a portal storm."
+    "description": "This defies easy description; it feels solid, but the surface is yielding.  Looking at it you are reminded of the calm at the end of a portal storm."
   }
 ]

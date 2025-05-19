@@ -6,7 +6,7 @@
     "symbol": "?",
     "color": "white",
     "name": { "str_sp": "animal" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "stackable": true,
     "price": "0 cent",
     "volume": "1 L",
@@ -20,7 +20,7 @@
     "symbol": "$",
     "color": "red",
     "name": { "str_sp": "nearby fire" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "price": "0 cent",
     "volume": "1 ml",
     "flags": [ "PSEUDO" ]
@@ -46,7 +46,7 @@
     "symbol": "?",
     "color": "white",
     "name": { "str_sp": "muscle" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "stackable": true,
     "price": "0 cent",
     "volume": "1 L",
@@ -60,7 +60,7 @@
     "symbol": "?",
     "color": "white",
     "name": { "str_sp": "wind" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "stackable": true,
     "price": "0 cent",
     "volume": "1 L",
@@ -74,7 +74,7 @@
     "symbol": "?",
     "color": "white",
     "name": { "str_sp": "sun light" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "stackable": true,
     "price": "0 cent",
     "volume": "1 L",
@@ -88,7 +88,7 @@
     "symbol": "?",
     "color": "white",
     "name": { "str": "metabolism" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "stackable": true,
     "price": "0 cent",
     "volume": "1 L",
@@ -102,7 +102,7 @@
     "symbol": "$",
     "color": "red",
     "name": { "str_sp": "a smoking device and a source of flame" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "price": "0 cent",
     "volume": "0 ml",
     "flags": [ "PSEUDO" ]
@@ -113,7 +113,7 @@
     "symbol": "$",
     "color": "red",
     "name": { "str_sp": "none" },
-    "description": { "str": "seeing this is a bug", "//~": "NO_I18N" },
+    "description": { "str": "Seeing this is a bug.", "//~": "NO_I18N" },
     "price": "0 cent",
     "volume": "0 ml",
     "flags": [ "PSEUDO" ],
@@ -235,7 +235,7 @@
     "symbol": "-",
     "color": "pink",
     "name": { "str": "Foodplace loyalty card" },
-    "description": "A bright pink loyalty card, all the points are stamped.  This would definitely prove your fidelity to Foodplace, if that still meant anything…",
+    "description": "A bright pink loyalty card.  All the points are stamped.  This would definitely prove your fidelity to Foodplace, if that still meant anything…",
     "price": "0 cent",
     "price_postapoc": "0 cent",
     "material": [ "paper" ],
@@ -316,7 +316,7 @@
     "phase": "liquid",
     "color": "white",
     "name": { "str_sp": "superglue" },
-    "description": "Cyanoacrylate, more commonly known as superglue, is a strong, quick curing glue with many applications.  It was a favorite of many post-Cataclysm hobbyists, but has become a sought-after trade good due to its wide applications, and the fact it has become essentially impossible to manufacture.",
+    "description": "Cyanoacrylate, more commonly known as superglue, is a strong, quick curing glue with many applications.  It was a favorite of many post-Cataclysm hobbyists, but has become a sought-after trade good due to its wide applications and the fact it has become essentially impossible to manufacture.",
     "price": "1 USD",
     "price_postapoc": "1 USD",
     "material": [ "plastic" ],
@@ -350,7 +350,7 @@
     "category": "spare_parts",
     "color": "brown",
     "name": { "str": "bone glue" },
-    "description": "Glue made from boiling animal bones.  The adhesive isn't strong enough for heavy-duty usages, but it can be used as a varnish or holding together small items.",
+    "description": "Glue made from boiling animal bones.  The adhesive isn't strong enough for heavy-duty usages, but it can be used as a varnish or to hold together small items.",
     "price": "18 USD",
     "price_postapoc": "50 cent",
     "material": [ "bone" ],
@@ -815,7 +815,7 @@
     "id": "godcotrader_accounting_records_clean",
     "//": "Quest item, should not spawn naturally.",
     "name": { "str_sp": "accounting records" },
-    "description": "A stack of various forms and papers with credits and debits listed all over them, detailing transactions and purchases.  Reading over them, everything is in good order, whoever did these is skilled at their job.",
+    "description": "A stack of various forms and papers with credits and debits listed all over them, detailing transactions and purchases.  Reading over them, everything is in good order.  Whoever did these is skilled at their job.",
     "price": "0 cent",
     "price_postapoc": "0 cent",
     "weight": "1 g",
@@ -984,7 +984,7 @@
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "wire" },
-    "description": "A length of thin, relatively stiff steel wire.  Like the sort you find in chain link fences.",
+    "description": "A length of thin, relatively stiff steel wire, like the sort you find in chain link fences.",
     "category": "spare_parts",
     "price": "200 USD",
     "price_postapoc": "10 cent",
@@ -1049,7 +1049,7 @@
     "id": "qt_wire",
     "copy-from": "lc_wire",
     "name": { "str": "tempered steel wire" },
-    "description": "A length of flexible and durable steel wire, made of tempered spring steel.  Often used in industrial and automotive springs, and the wire in musical instruments.",
+    "description": "A length of flexible and durable steel wire, made of tempered spring steel.  Often used in industrial and automotive springs, and in musical instruments.",
     "material": [ "qt_steel" ]
   },
   {
@@ -1087,7 +1087,7 @@
     "symbol": "/",
     "color": "light_gray",
     "name": { "str": "rebar" },
-    "description": "A rod of rebar, makes a nice melee weapon, and could be handy in constructing tougher walls and such.",
+    "description": "A rod of rebar.  Makes a nice melee weapon, and could be handy in constructing tougher walls and such.",
     "category": "spare_parts",
     "price": "75 USD",
     "price_postapoc": "25 cent",
@@ -1423,13 +1423,13 @@
     "longest_side": "48 cm",
     "price": "2 kUSD 500 USD",
     "category": "other",
-    "description": "A special forces Russian rifle chambered in 5.45 that someone has taken a plasma cutter to, cutting it in three places to comply with import restrictions.  This thing would have been hard to source, and thankfully its unique complex recoil balance system remains intact, unlike the receiver and barrel.  The telltale rainbow patterns of torch cuts mar the otherwise beautiful receiver.  A well-equipped gunsmith with time and materials could probably build a new one out of this…",
+    "description": "A Russian special forces rifle chambered in 5.45 that someone has taken a plasma cutter to, cutting it in three places to comply with import restrictions.  This thing would have been hard to source, and thankfully its unique complex recoil balance system remains intact, unlike the receiver and barrel.  The telltale rainbow patterns of torch cuts mar the otherwise beautiful receiver.  A well-equipped gunsmith with time and materials could probably build a new one out of this…",
     "variant_type": "gun",
     "variants": [
       {
         "id": "broken_kord",
         "name": { "str": "Kord 6P67 rifle (Demilled)", "str_pl": "Kord 6P67 rifles (Demilled)" },
-        "description": "A special forces Russian rifle chambered in 5.45 that someone has taken a plasma cutter to, cutting it in three places to comply with import restrictions.  This thing would have been hard to source, and thankfully its unique complex recoil balance system remains intact, unlike the receiver and barrel.  The telltale rainbow patterns of torch cuts mar the otherwise beautiful receiver.  A well-equipped gunsmith with time and materials could probably build a new one out of this…"
+        "description": "A Russian special forces rifle chambered in 5.45 that someone has taken a plasma cutter to, cutting it in three places to comply with import restrictions.  This thing would have been hard to source, and thankfully its unique complex recoil balance system remains intact, unlike the receiver and barrel.  The telltale rainbow patterns of torch cuts mar the otherwise beautiful receiver.  A well-equipped gunsmith with time and materials could probably build a new one out of this…"
       }
     ],
     "flags": [ "TRADER_AVOID", "NO_REPAIR", "MISSION_ITEM" ]
@@ -1812,7 +1812,7 @@
     "color": "dark_gray",
     "name": { "str": "processor board" },
     "category": "spare_parts",
-    "description": "A central processor unit, useful in advanced electronics crafting.",
+    "description": "A central processing unit, useful in advanced electronics crafting.",
     "price": "120 USD",
     "price_postapoc": "10 cent",
     "material": [ "plastic" ],
@@ -2190,7 +2190,7 @@
     "symbol": ";",
     "color": "light_gray",
     "name": { "str": "clock" },
-    "description": "A small mechanical clock, it's stopped at 10:10.",
+    "description": "A small mechanical clock.  It's stopped at 10:10.",
     "price": "10 USD",
     "price_postapoc": "10 cent",
     "material": [ "plastic", "steel" ],
@@ -2884,7 +2884,7 @@
       {
         "id": "bodypillow_azurlane",
         "name": { "str": "ship body pillow" },
-        "description": "A big, body-sized pillow with a print of an aircraft carrier drawn on both sides.  The one on the back is stripped of its armor plating, how naughty.  It is rolled for compact storage and transportation.  You will automatically unroll it when you place it for sleeping."
+        "description": "A big, body-sized pillow with a print of an aircraft carrier drawn on both sides.  The one on the back is stripped of its armor plating; how naughty.  It is rolled for compact storage and transportation.  You will automatically unroll it when you place it for sleeping."
       },
       {
         "id": "bodypillow_gfl",
@@ -2905,7 +2905,7 @@
       {
         "id": "bodypillow_survivor",
         "name": { "str": "survivor body pillow" },
-        "description": "A big, body-sized pillow with an anime-style print of Bear Grillings, Ultimate Survivor on both sides.  On one side he's holding a pneumatic air rifle, and on the other he is clad in nothing but duct tape.  The pillow is stylized to look like Kevlar.  It is rolled for compact storage and transportation.  You will automatically unroll it when you place it for sleeping."
+        "description": "A big, body-sized pillow with an anime-style print of Bear Grillings, Ultimate Survivor, on both sides.  On one side he's holding a pneumatic air rifle, and on the other he is clad in nothing but duct tape.  The pillow is stylized to look like Kevlar.  It is rolled for compact storage and transportation.  You will automatically unroll it when you place it for sleeping."
       },
       {
         "id": "bodypillow_furry",
@@ -3378,7 +3378,7 @@
     "id": "refrigerant_tank",
     "type": "ITEM",
     "name": { "str": "refrigerant tank" },
-    "description": "A small tank containing some sort of refrigerant often used in devices such as freezers.  Hermetically sealed to prevent evaporation - cannot be opened without prior connection to a compatible valve.",
+    "description": "A small tank containing some sort of refrigerant often used in devices such as freezers.  Hermetically sealed to prevent evaporation - it cannot be opened without prior connection to a compatible valve.",
     "weight": "410 g",
     "volume": "1 L",
     "price": "30 USD",

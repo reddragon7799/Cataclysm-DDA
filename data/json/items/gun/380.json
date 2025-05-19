@@ -78,7 +78,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": ".380 ACP pistol-caliber carbine" },
-    "description": "A pistol-caliber carbine chambered in .380 ACP.  It is more powerful and accurate than an equivalent pistol but the .380 ACP round is nonetheless fairly weak.  Accepts 10-round magazines, which are not shared with any .380 ACP pistol unlike many other similar pistol-caliber carbines.",
+    "description": "A pistol-caliber carbine chambered in .380 ACP.  It is more powerful and accurate than an equivalent pistol but the .380 ACP round is nonetheless fairly weak.  Accepts 10-round magazines, which are not shared with any .380 ACP pistol, unlike many other similar pistol-caliber carbines.",
     "variant_type": "gun",
     "variants": [
       {

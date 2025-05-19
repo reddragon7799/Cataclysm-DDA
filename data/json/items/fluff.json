@@ -40,7 +40,7 @@
       {
         "id": "deck_of_cards_worn",
         "name": { "str": "worn deck of cards", "str_pl": "worn decks of cards" },
-        "description": "A deck of 52 playing cards.  Judging by the bent, frayed edges and faded prints, it saw its share of games.",
+        "description": "A deck of 52 playing cards.  Judging by the bent, frayed edges and faded prints, it has seen its share of games.",
         "weight": 6
       },
       {
@@ -52,7 +52,7 @@
       {
         "id": "onirim",
         "name": { "str": "deck of Shadowcaser cards", "str_pl": "decks of Shadowcaser cards" },
-        "description": "A set of cards used in the solo or two-player cooperative card game called Shadowcaser.  The deck consists of 76 unique cards.  Shadowcaser is a immersive card game set in a dream world where players find themselves trapped in a mysterious labyrinthine dream.  The objective of the game is for players to escape this dream world by unlocking eight doors before they run out of time or succumb to the nightmares haunting them.",
+        "description": "A set of cards used in the solo or two-player cooperative card game Shadowcaser.  The deck consists of 76 unique cards.  Shadowcaser is an immersive card game set in a dream world where players find themselves trapped in a mysterious labyrinthine dream.  The objective of the game is for players to escape this dream world by unlocking eight doors before they run out of time or succumb to the nightmares haunting them.",
         "weight": 1
       },
       {
@@ -140,7 +140,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Jigsaw puzzle" },
-    "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a image of something, somewhere.",
+    "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form an image of something, somewhere.",
     "weight": "410 g",
     "volume": "2200 ml",
     "price": "20 USD",
@@ -155,224 +155,224 @@
       {
         "id": "jigsaw_1",
         "name": { "str": "White House jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the main view of the White House in Washington, DC.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form the main view of the White House in Washington, DC.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_2",
         "name": { "str": "St. Basil's jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the main view of the St. Basil's Cathedral at the Red Square in Moscow, Russia.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form the main view of the St. Basil's Cathedral at the Red Square in Moscow, Russia.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_3",
         "name": { "str": "Big Ben jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Big Ben in London, United Kingdom.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Big Ben in London, United Kingdom.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_4",
         "name": { "str": "Curitiba's Botanical Garden jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Curitiba's Botanical Garden in Curitiba, Brazil.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Curitiba's Botanical Garden in Curitiba, Brazil.",
         "color": "blue",
         "weight": 5
       },
       {
         "id": "jigsaw_5",
         "name": { "str": "Christ Redeemer jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the backside view of Christ Redeemer, the Copacabana Beach, and the Pao de Acucar in Rio de Janeiro, Brazil.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a rear view of Christ Redeemer, the Copacabana Beach, and the Pao de Acucar in Rio de Janeiro, Brazil.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_6",
         "name": { "str": "Machu Picchu jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the background view of the ancient village of Machu Picchu in Machu Picchu, Peru.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a background view of the ancient village of Machu Picchu in Machu Picchu, Peru.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_7",
         "name": { "str": "Pyramids of Giza jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Pyramids of Giza in Al Haram, Egypt.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Pyramids of Giza in Al Haram, Egypt.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_8",
         "name": { "str": "Great Wall of China jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a beautiful horizontal view of the Great Wall of China in Northern China.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a beautiful horizontal view of the Great Wall of China in Northern China.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_9",
         "name": { "str": "Roman Colosseum jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Roman Colosseum in Roma, Italy.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Roman Colosseum in Rome, Italy.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_10",
         "name": { "str": "Taj Mahal jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the background view of the Taj Mahal mausoleum in Agra, India.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a background view of the Taj Mahal mausoleum in Agra, India.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_11",
         "name": { "str": "Hanging Gardens of Babylon jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a possible accurate representation of the Hanging Gardens of Babylon.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a possible accurate representation of the Hanging Gardens of Babylon.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_12",
         "name": { "str": "Statue of Zeus jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a theoretical representation of the Statue of Zeus, a wonder that used to be at Olympia, Greece.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a theoretical representation of the Statue of Zeus, a wonder that used to be at Olympia, Greece.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_13",
         "name": { "str": "Temple of Artemis jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a historical representation of the Temple of Artemis, possibly located in present-day, pre-Cataclysm Turkey.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a historical representation of the Temple of Artemis, possibly located in present-day, pre-Cataclysm Turkey.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_14",
         "name": { "str": "Mausoleum at Halicarnassus jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a possibly historically-accurate representation of the Mausoleum at Halicarnassus, probably located in present-day, pre-Cataclysm Turkey.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a possibly historically-accurate representation of the Mausoleum at Halicarnassus, probably located in present-day, pre-Cataclysm Turkey.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_15",
         "name": { "str": "Colossus of Rhodes jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a representation of the Colossus of Rhodes in the island of same name, Greece, that may or may not be accurate.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a representation of the Colossus of Rhodes in the island of same name, Greece, that may or may not be accurate.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_16",
         "name": { "str": "Lighthouse of Alexandria jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a historical representation of the Lighthouse of Alexandria, that was built in the ancient city of Alexandria, Egypt.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a historical representation of the Lighthouse of Alexandria, that was built in the ancient city of Alexandria, Egypt.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_17",
         "name": { "str": "Stonehenge jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the ancient Stonehenge in Salisbury, United Kingdom.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the ancient Stonehenge in Salisbury, United Kingdom.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_18",
         "name": { "str": "Great Barrier Reef jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the underwater view of the Great Barrier Reef in the coast of Queensland, Australia.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form an underwater view of the Great Barrier Reef off the coast of Queensland, Australia.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_19",
         "name": { "str": "Mount Everest jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the forms the horizontal view of the Mount Everest, located at the Himalayan Mountain Range.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a horizontal view of Mount Everest, part of the Himalayan Mountain Range.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_20",
         "name": { "str": "Mount Fuji jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the horizontal view of Mount Fuji, at the Japanese island of Honshu.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a horizontal view of Mount Fuji, on the Japanese island of Honshu.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_21",
         "name": { "str": "Victoria Falls jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a magnificent upper view of the Victoria Falls at the border between Zambia and Zimbabwe.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a magnificent upper view of the Victoria Falls on the border of Zambia and Zimbabwe.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_22",
         "name": { "str": "Paricutín Volcano jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the natural view of the Paricutín Volcano, located in the Michoacán State, Mexico.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a natural view of the Paricutín Volcano, located in the Michoacán State, Mexico.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_23",
         "name": { "str": "Angkor Wat jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms a interior view of the Angkor Wat temple complex in Cambodia.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form an interior view of the Angkor Wat temple complex in Cambodia.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_24",
         "name": { "str": "Guanabara Bay jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the natural view of the Guanabara Bay in Rio de Janeiro, Brazil.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a natural view of the Guanabara Bay in Rio de Janeiro, Brazil.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_25",
         "name": { "str": "Grand Canyon jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the rocky view of the Grand Canyon, at the State of Arizona.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a rocky view of the Grand Canyon in the State of Arizona.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_26",
         "name": { "str": "Northern Lights jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the otherworldly beautiful view of the Northern Lights (Aurora Borealis) which occur most often in the Arctic Circle and polar regions.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form an otherworldly beautiful view of the Northern Lights (Aurora Borealis), which occur most often in the Arctic Circle and polar regions.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_27",
         "name": { "str": "Acadia National Park jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the natural view of the entrance of the Acadia National Park, located in Maine.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a natural view of the entrance of the Acadia National Park, located in Maine.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_28",
         "name": { "str": "Mark Twain House jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Mark Twain House in Connecticut.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Mark Twain House in Connecticut.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_29",
         "name": { "str": "Mount Rushmore jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the front view of the Mount Rushmore National Memorial in South Dakota.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a frontal view of the Mount Rushmore National Memorial in South Dakota.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_30",
         "name": { "str": "Portland Head Light jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the beautiful front view of the Portland Head Light in Maine.  Its picturesque setting overlooking the Atlantic Ocean is outstanding!",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form the beautiful front view of the Portland Head Light in Maine.  Its picturesque setting overlooking the Atlantic Ocean is outstanding!",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_32",
         "name": { "str": "Eiffel Tower jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the beautiful front view of the Eiffel Tower in Paris, France.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a beautiful frontal view of the Eiffel Tower in Paris, France.",
         "color": "blue",
         "weight": 20
       },
       {
         "id": "jigsaw_33",
         "name": { "str": "The Statue of Liberty jigsaw puzzle" },
-        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly forms the unique, beautiful front view of the Statue of Liberty, in New York.",
+        "description": "A jigsaw puzzle cardboard box containing 1000 cardboard pieces that when connected together properly form a unique, beautiful frontal view of the Statue of Liberty, in New York.",
         "color": "blue",
         "weight": 20
       }
@@ -383,7 +383,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "tic-tac-toe set" },
-    "description": "Not really a set, just a sheet of paper with a big '#' drawn at the center, alongside three buttons of a specific color, three others from a different color and a proper container for storing it properly.  You can play tic tac toe indefinitely with that!",
+    "description": "Not really a set, just a sheet of paper with a big '#' drawn at the center, alongside three buttons of a specific color, three others from a different color, and a container for storing it properly.  You can play tic tac toe indefinitely with this!",
     "weight": "100 g",
     "volume": "500 ml",
     "material": [ "paper" ],
@@ -397,7 +397,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "makeshift dominoes set" },
-    "description": "Twenty eight rectangular pieces of cardboard, with dots on them so you can use it to play dominoes.  It has also a proper container for storing them all in place.",
+    "description": "Twenty eight rectangular pieces of cardboard, with dots on them so you can use it to play dominoes.  It also has a proper container for storing them all in place.",
     "weight": "100 g",
     "volume": "500 ml",
     "material": [ "cardboard" ],
@@ -443,7 +443,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "compact chess set" },
-    "description": "A smaller and compact counterpart of the standard chess set, perfect for casual play and travel.  It contains all the pieces needed to play a game of chess.",
+    "description": "A smaller and more compact counterpart of the standard chess set, perfect for casual play and travel.  It contains all the pieces needed to play a game of chess.",
     "weight": "275 g",
     "volume": "1200 ml",
     "longest_side": "15 cm",
@@ -476,7 +476,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "tangram set" },
-    "description": "A modest wooden box containing a square base, two small triangles, two large triangles, a parallelogram, and a rhombus, all painted in different colors to play the traditional Chinese puzzle of tangram.  At the box, there are several figures that you can make with the pieces.",
+    "description": "A modest wooden box containing a square base, two small triangles, two large triangles, a parallelogram, and a rhombus, all painted in different colors, to play the traditional Chinese puzzle of tangram.  On the box, there are several figures that you can make with the pieces.",
     "weight": "788 g",
     "volume": "1500 ml",
     "price": "20 USD",
@@ -492,7 +492,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Chinese checkers set" },
-    "description": "A wooden box containing a wooden board with a star-shaped pattern, ten holes in each of its six arms, and a set of round pegs used to play Chinese checkers.  In the box, there's a comprehensible explanation of how to play the game.",
+    "description": "A wooden box containing a wooden board with a star-shaped pattern, ten holes in each of its six arms, and a set of round pegs, used to play Chinese checkers.  In the box, there's a comprehensible explanation of how to play the game.",
     "weight": "2072 g",
     "volume": "4720 ml",
     "price": "20 USD",
@@ -508,7 +508,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "mancala set" },
-    "description": "A somewhat large wooden box containing a rectangular wooden board with a series of small pits, as well as a number of game pieces that look like different colored beads.  The board features two rows of pits, with each player controlling the row of pits closest to them.  The game pieces are distributed evenly among the pits at the beginning of the game, and players take turns picking up and redistributing the pieces according to the rules.  In the box, there's a comprehensible step-by-step guide on how to play.",
+    "description": "A somewhat large wooden box containing a rectangular wooden board with a series of small pits, as well as a number of game pieces that look like differently colored beads.  The board features two rows of pits, with each player controlling the row of pits closest to them.  The game pieces are distributed evenly among the pits at the beginning of the game, and players take turns picking up and redistributing the pieces according to the rules.  In the box, there's a comprehensible step-by-step guide on how to play.",
     "weight": "1313 g",
     "volume": "4668 ml",
     "price": "20 USD",
@@ -524,7 +524,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Four in a Row set" },
-    "description": "A cardboard box containing a plastic grid with seven columns and six rows, and 42 colored discs, alongside a small booklet explaining how to play Four in a Row.",
+    "description": "A cardboard box containing a plastic grid with seven columns and six rows and 42 colored discs, alongside a small booklet explaining how to play Four in a Row.",
     "weight": "680 g",
     "volume": "600 ml",
     "price": "20 USD",
@@ -540,7 +540,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Rummy-o set" },
-    "description": "A cardboard box containing a grid, and various tiles akin to a classic deck of cards, alongside a booklet explaining how to play Rummy-o.",
+    "description": "A cardboard box containing a grid and various tiles akin to a classic deck of cards, alongside a booklet explaining how to play Rummy-o.",
     "weight": "907 g",
     "volume": "1000 ml",
     "price": "20 USD",
@@ -556,7 +556,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Reversi set" },
-    "description": "A cardboard box containing a grid, and various round black and white pieces, alongside a booklet explaining how to play Reversi.",
+    "description": "A cardboard box containing a grid and various round black and white pieces, alongside a booklet explaining how to play Reversi.",
     "weight": "900 g",
     "volume": "1300 ml",
     "price": "20 USD",
@@ -572,7 +572,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Scrabble Letters set" },
-    "description": "A board game cardboard box containing a proper board, and various letter tiles, meant to play Scrabble Letters alone or with friends.",
+    "description": "A cardboard board game box containing a proper board and various letter tiles, meant to play Scrabble Letters alone or with friends.",
     "weight": "907 g",
     "volume": "1000 ml",
     "price": "20 USD",
@@ -636,7 +636,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Capitalism", "str_pl": "sets of Capitalism" },
-    "description": "A game where players traverse around the board, buying property and swindling their friends.",
+    "description": "A game where players traverse the board, buying property and swindling their friends.",
     "weight": "300 g",
     "volume": "500 ml",
     "price": "99 cent",
@@ -685,7 +685,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Wayfinder", "str_pl": "sets of Wayfinder" },
-    "description": "A roleplaying game set in the a fantasy medieval world with goblins and orcs.  You can be a mage, a warrior, or a barbarian and go on epic adventures.",
+    "description": "A roleplaying game set in a fantasy medieval world with goblins and orcs.  You can be a mage, a warrior, or a barbarian, and go on epic adventures.",
     "weight": "680 g",
     "volume": "1250 ml",
     "price": "129 USD 50 cent",
@@ -701,7 +701,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Dawn of Man", "str_pl": "sets of Dawn of Man" },
-    "description": "A roleplaying game set in the Stone Age.  There, you can choose different places in the world to start, select many different classes, and different species of hominids to survive the primitive world.",
+    "description": "A roleplaying game set in the Stone Age.  There, you can choose different places in the world to start, and select many different classes and species of hominids to survive the primitive world.",
     "weight": "680 g",
     "volume": "1250 ml",
     "price": "129 USD 50 cent",
@@ -765,7 +765,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Farmland", "str_pl": "sets of Farmland" },
-    "description": "A fun strategy board game where players (or just a player, since you can play this alone as a solitaire board game) attempt to improve their farms by plowing fields, sowing crops, raising livestock, and expanding their families.  The game is set in the European farming community during the 17th century.",
+    "description": "A fun strategy board game where players (or just a player, since you can play this alone as a solitaire board game) attempt to improve their farms by plowing fields, sowing crops, raising livestock, and expanding their families.  The game is set in a European farming community during the 17th century.",
     "weight": "904 g",
     "volume": "1350 ml",
     "price": "70 USD 50 cent",
@@ -877,7 +877,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "Deity Island", "str_pl": "sets of Deity Island" },
-    "description": "A cooperative board game designed for 1-4 players, where each player takes on the role of a powerful deity defending an island from colonizing invaders.  Before the Cataclysm, inside the board gaming community, it was known for its deep strategic gameplay, thematic richness, and intricate mechanics.",
+    "description": "A cooperative board game designed for 1-4 players, where each player takes on the role of a powerful deity defending an island from colonizing invaders.  Before the Cataclysm it was known inside the board gaming community for its deep strategic gameplay, thematic richness, and intricate mechanics.",
     "weight": "804 g",
     "volume": "1250 ml",
     "price": "70 USD 50 cent",
@@ -912,7 +912,7 @@
       {
         "id": "terraforming_mars",
         "name": { "str": "Terraforming - Mars", "str_pl": "sets of Terraforming - Mars" },
-        "description": "This board game is set in the 2400s, where corporations are working together to terraform the planet Mars and make it habitable for human life.  Players (or just a single player) take on the roles of these corporations and compete to contribute to the terraforming process by raising temperature, creating oceans, and cultivating greenery on the Martian surface."
+        "description": "This board game is set in the 2400s, where corporations are working together to terraform the planet Mars and make it habitable for human life.  Players (or just a single player) take on the roles of these corporations and compete to contribute to the terraforming process by raising the temperature, creating oceans, and cultivating greenery on the Martian surface."
       },
       {
         "id": "terraforming_venus",
@@ -932,12 +932,12 @@
       {
         "id": "terraforming_uranus",
         "name": { "str": "Terraforming - Uranus", "str_pl": "sets of Terraforming - Uranus" },
-        "description": "Another edition of the acclaimed board game Terraforming, this time set in the 3000s, where players or the player (again) take on the role of corporations working together to terraform the planet Uranus though various ways, such as increasing temperature, developing a proper atmosphere and development of oxygen."
+        "description": "Another edition of the acclaimed board game Terraforming, this time set in the 3000s, where players or the player (again) take on the role of corporations working together to terraform the planet Uranus though various ways, such as increasing temperature and developing a proper oxygen-rich atmosphere."
       },
       {
         "id": "terraforming_neptune",
         "name": { "str": "Terraforming - Neptune", "str_pl": "sets of Terraforming - Neptune" },
-        "description": "This board game is set in the 2800s, and just like it's prequels, either a single player or players take on the roles of terraforming corporations, competing to transform the planet Neptune into a habitable environment for human life."
+        "description": "This board game is set in the 2800s, and just like its prequels, either a single player or players take on the roles of terraforming corporations, competing to transform the planet Neptune into a habitable environment for human life."
       },
       {
         "id": "terraforming_pluto",
@@ -1084,7 +1084,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str": "mahjong set" },
-    "description": "A very beautiful, and really huge plastic box, containing all the pieces needed to play a game of mahjong, along with a poorly-translated but comprehensible rule booklet.  Mahjong is a tile-based game where you need to match pieces into winning hands to earn points.",
+    "description": "A very beautiful and really huge plastic box containing all the pieces needed to play a game of mahjong, along with a poorly-translated but comprehensible rule booklet.  Mahjong is a tile-based game where you need to match pieces into winning hands to earn points.",
     "weight": "4000 g",
     "volume": "4345 ml",
     "price": "36 USD",
@@ -1244,7 +1244,7 @@
     "type": "ITEM",
     "category": "other",
     "name": { "str_sp": "Snakes and Ladders" },
-    "description": "A board game for two or more players, regarded before the Cataclysm as a worldwide classic.  The objective of the game is to navigate one's game piece to the goal on the board, helped by climbing ladders but hindered by sliding down snakes.",
+    "description": "A board game for two or more players, regarded as a worldwide classic before the Cataclysm.  The objective of the game is to navigate one's game piece to the goal on the board, helped by climbing ladders but hindered by sliding down snakes.",
     "weight": "300 g",
     "volume": "1800 ml",
     "price": "25 cent",
@@ -1437,7 +1437,7 @@
     "type": "ITEM",
     "id": "xedra_microphone",
     "name": { "str": "NRE microphone" },
-    "description": "A squat tripod supports what appears to be a rather long microphone encased within a glass ampoule.  You can't tell whether it's meant to record audio, or something else entirely.",
+    "description": "A squat tripod supports what appears to be a rather long microphone encased within a glass ampoule.  You can't tell whether it's meant to record audio or something else entirely.",
     "symbol": "i",
     "color": "dark_gray",
     "volume": "2100 ml",
@@ -1659,7 +1659,7 @@
       {
         "id": "sketch_dark_doodles",
         "name": { "str": "disturbing sketch", "str_pl": "disturbing sketches" },
-        "description": "This one is a collection of assorted doodles, many have dark imagery and shadowy figures.  It's kind of disturbing.",
+        "description": "This one is a collection of assorted doodles, with many having dark imagery and shadowy figures.  It's kind of disturbing.",
         "append": true,
         "weight": 2
       },
@@ -1879,7 +1879,7 @@
     "id": "gun_lock",
     "name": { "str": "gun cable lock" },
     "//": "Stats from a 10/22 lock I had laying about.  If the length or volume seems weird, the cable doesn't fold all the way so it's an odd shape.",
-    "description": "A set with a key and a small lock, resembling a padlock if the shackle was replaced by a steel cable.  This design allows the cable to fit into the chamber of a firearm and lock, preventing the firearm from functioning.  An import part of gun safety, it is required by law to be sold with any firearm.",
+    "description": "A set with a key and a small lock, resembling a padlock if the shackle was replaced by a steel cable.  This design allows the cable to fit into the chamber of a firearm and lock, preventing the firearm from functioning.  An important part of gun safety, it was required by law to be sold with any firearm.",
     "weight": "83 g",
     "volume": "53 ml",
     "longest_side": "9 cm",

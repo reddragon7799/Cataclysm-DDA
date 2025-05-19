@@ -276,7 +276,7 @@
     "subtypes": [ "GUN" ],
     "copy-from": "hk_mp5",
     "name": { "str": "H&K MP5K-PDW submachine gun" },
-    "description": "The Heckler & Koch MP5 is one of the most widely-used submachine guns in the world, and has been adopted by special police forces and militaries alike.  Its high degree of accuracy and low recoil are universally praised.  The MP5K-PDW model features a shorter barrel, a built-in foregrip, and a side folding stock for vehicle or aircraft crew use.",
+    "description": "The Heckler & Koch MP5 is one of the most widely-used submachine guns in the world, and has been adopted by special police forces and militaries alike.  Its high degree of accuracy and low recoil are universally praised.  The MP5K-PDW model features a shorter barrel, a built-in foregrip, and a side-folding stock for vehicle or aircraft crew use.",
     "ascii_picture": "hk_mp5-pdw",
     "weight": "2292 g",
     "volume": "2601 ml",
@@ -447,7 +447,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "MP 40 submachine gun" },
-    "description": "An antique German-issued submachine gun from the Second World War, likely having entered the United States as a personal holdover by a veteran.  Chambered in 9x19mm and utilizing proprietary box magazines, the firearm has an integrated under folding wire stock.",
+    "description": "An antique German-issued submachine gun from the Second World War, likely having entered the United States as a personal holdover by a veteran.  Chambered in 9x19mm and utilizing proprietary box magazines, the firearm has an integrated under-folding wire stock.",
     "variant_type": "gun",
     "variants": [
       {
@@ -652,7 +652,7 @@
     "subtypes": [ "GUN" ],
     "reload_noise_volume": 10,
     "name": { "str": "STEN Mk II submachine gun" },
-    "description": "The standard issue 9mm submachine gun of the British military throughout most of the Second World War.  The STEN is aesthetically far from pretty.  Featuring an iconic side mounted magazine well and a design optimized for mass production using unskilled labor, the STEN was developed to make up for drastic supply shortages during the early days of the war.  Likely entering the US prior to the 1960s, either as a war time holdover or a museum purchase; you suppose that if you were to try and defend your nation, whatever the cost may be, and fight the undead 'on the beaches, fight on the landing grounds, fight in the fields and in the streets, fight in the hills; and never surrender', then it might be the time for the STEN to come back into frontline service.",
+    "description": "The standard issue 9mm submachine gun of the British military throughout most of the Second World War.  The STEN is, aesthetically, far from pretty.  Featuring an iconic side mounted magazine well and a design optimized for mass production using unskilled labor, the STEN was developed to make up for drastic supply shortages during the early days of the war.  Likely entering the US prior to the 1960s, either as a wartime holdover or a museum purchase; you suppose that if you were to try and defend your nation, whatever the cost may be, and fight the undead 'on the beaches, fight on the landing grounds, fight in the fields and in the streets, fight in the hills; and never surrender', then it might be the time for the STEN to come back into frontline service.",
     "weight": "3200 g",
     "volume": "1240 ml",
     "longest_side": "765 mm",
@@ -684,7 +684,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "TEC-9 pistol" },
-    "description": "The TEC-9 is a semi-automatic 'pistol' made of cheap polymers and machine stamped parts.  Its rise in popularity among criminals is largely due to its intimidating looks, low cost and relative ease of converting to fully automatic.",
+    "description": "The TEC-9 is a semi-automatic 'pistol' made of cheap polymers and machine stamped parts.  Its rise in popularity among criminals is largely due to its intimidating looks, low cost, and relative ease of converting to fully automatic.",
     "weight": "1400 g",
     "volume": "870 ml",
     "longest_side": "345 mm",
@@ -836,7 +836,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "M11 pistol" },
-    "description": "Made by SIG Sauer, the M11 is a compact semi-automatic, short recoil operated pistol, also known as the P228.",
+    "description": "Made by SIG Sauer, the M11 is a compact, semi-automatic, short recoil operated pistol, also known as the P228.",
     "weight": "825 g",
     "volume": "505 ml",
     "longest_side": "216 mm",
@@ -885,7 +885,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "compact service handgun" },
-    "description": "A more petite version of the United States army's general issue sidearm, this is a modestly-sized pistol firing 9x19mm rounds.  Making use of the same magazines as its larger brother, the weapon features a shorter barrel and frame which helps to reduce its overall profile and make it more concealable as a result.",
+    "description": "A more petite version of the United States army's general issue sidearm, this is a modestly sized pistol firing 9x19mm rounds.  Making use of the same magazines as its larger brother, the weapon features a shorter barrel and frame which helps to reduce its overall profile and make it more concealable as a result.",
     "variant_type": "gun",
     "variants": [
       {
@@ -905,7 +905,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "SIG P226 MK25 pistol" },
-    "description": "The P226 MK25 is a full-size semi-automatic DA/SA, short-recoil operated pistol with corrosion-resistant internal coating and an engraved anchor on the side of the slide.",
+    "description": "The P226 MK25 is a full-size, semi-automatic, DA/SA, short-recoil operated pistol with corrosion-resistant internal coating and an engraved anchor on the side of the slide.",
     "weight": "804 g",
     "volume": "570 ml",
     "longest_side": "237 mm",
@@ -1228,13 +1228,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "Glock carbine" },
-    "description": "A lightweight pistol caliber carbine, chambered in 9mm and accepting Glock magazines.",
+    "description": "A lightweight pistol-caliber carbine, chambered in 9mm and accepting Glock magazines.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "rugerpcc",
         "name": { "str": "Ruger PCC" },
-        "description": "The Ruger PCC is a pistol caliber carbine, made by Ruger.  It's quite commonplace, thanks to its low recoil, reliability, and use of readily available magazines."
+        "description": "The Ruger PCC is a pistol-caliber carbine, made by Ruger.  It's quite commonplace, thanks to its low recoil, reliability, and use of readily available magazines."
       }
     ],
     "weight": "3084 g",

@@ -481,7 +481,7 @@
     "symbol": "/",
     "color": "dark_gray",
     "name": { "str": "rebar spear" },
-    "description": "Two rods of rebar welded together with a pointed tip.",
+    "description": "Two rods of rebar welded together, with a pointed tip.",
     "price": "10 USD",
     "price_postapoc": "1 USD",
     "material": [ "steel" ],

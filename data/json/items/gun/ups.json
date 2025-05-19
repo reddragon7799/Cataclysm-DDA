@@ -49,7 +49,7 @@
     "subtypes": [ "GUN" ],
     "reload_noise_volume": 20,
     "name": { "str": "CMES laser cannon" },
-    "description": "The integral weapon system for the CMES exoskeleton mech-suit, a rotating-barrel actively-cooled rapid-fire laser system.",
+    "description": "The integral weapon system for the CMES exoskeleton mech-suit, a rotating-barrel, actively-cooled rapid-fire laser system.",
     "weight": "39500 g",
     "volume": "11 L",
     "price": "95 kUSD",

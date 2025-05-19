@@ -96,7 +96,7 @@
       {
         "id": "letter_rent",
         "name": { "str": "late rent notice" },
-        "description": "A letter to recipient notifying them of their overdue rent, they have 30 days to pay or they are going to court!",
+        "description": "A letter to recipient notifying them of their overdue rent.  They have 30 days to pay or they are going to court!",
         "weight": 2
       },
       {

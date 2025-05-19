@@ -4,7 +4,7 @@
     "subtypes": [ "AMMO" ],
     "id": "sling-ready_molotov",
     "name": { "str": "sling-ready Molotov cocktail" },
-    "description": "A bottle of flammable liquid with a long fuse inserted, ready to be used in a staff sling with a modified cradle.  To throw this item without a sling, use it light the fuse.  You will, of course, need a lighter or matches in your inventory to do this.  After lighting it, throw it to cause fires.",
+    "description": "A bottle of flammable liquid with a long fuse inserted, ready to be used in a staff sling with a modified cradle.  To throw this item without a sling, use it to light the fuse.  You will, of course, need a lighter or matches in your inventory to do this.  After lighting it, throw it to cause fires.",
     "ascii_picture": "sling-ready_molotov",
     "weight": "1000 g",
     "volume": "960 ml",

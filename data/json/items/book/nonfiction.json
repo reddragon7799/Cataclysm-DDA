@@ -41,7 +41,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str": "New York Parties", "str_pl": "copies of New York Parties" },
-    "description": "Visit the homes of savvy tastemakers from the worlds of fashion, finance, and design, with this book of lavish photography.",
+    "description": "Visit the homes of savvy tastemakers from the worlds of fashion, finance, and design with this book of lavish photography.",
     "weight": "1606 g",
     "copy-from": "book_nonf_hard_homemk_tpl",
     "read_fun": 1
@@ -97,7 +97,7 @@
       "str": "How to Raise a Gentleman: A Civilized Guide to Parenting",
       "str_pl": "copies of How to Raise a Gentleman: A Civilized Guide to Parenting"
     },
-    "description": "A revised edition for parents who hope their little boy children will grow up to be the kind of men who know which fork to use, how to treat others, and generally make their parents proud.",
+    "description": "A revised edition for parents who hope their little boy children will grow up to be the kind of men who know which fork to use, how to treat others, and generally how to make their parents proud.",
     "time": "15 m",
     "copy-from": "book_nonf_soft_tpl",
     "relative": { "chapters": -4 }

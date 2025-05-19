@@ -12,7 +12,7 @@
       {
         "id": "ak47",
         "name": { "str": "AKM" },
-        "description": "Arguably the most mass-produced firearm ever made, the AKM has cemented itself in history, and a few country flags.  Designed after WW2, it was meant to replace the PPSh-41's role, but soon became the main infantry rifle.  While many believe it is a copy of the German StG-44, it more resembles an M1 Garand in operation.  Despite it's age, it still sees plenty of use in conflicts today."
+        "description": "Arguably the most mass-produced firearm ever made, the AKM has cemented itself in history, and a few country flags.  Designed after WW2, it was meant to replace the PPSh-41, but soon became the main infantry rifle.  While many believe it is a copy of the German StG-44, it more resembles an M1 Garand in operation.  Despite its age, it still sees plenty of use in conflicts today."
       }
     ],
     "weight": "3402 g",
@@ -49,7 +49,7 @@
       {
         "id": "sks",
         "name": { "str": "SKS" },
-        "description": "A very common 7.62x39 rifle, the SKS was designed to replace the Mosin Nagant bolt action rifle, while the AK-47 was meant to replace the PPSh-41.  Mechanically, it resembles a much scaled down version of USSR's PTRS-41 semi automatic anti-tank rifle.  However, due to the success of the AK-47, the SKS was replaced by it in the USSR's Red Army.  It still saw service in other militaries, mainly other socialist states that got a surplus of SKS carbines from the USSR.  Due to the amount produced, it is a commonplace rifle in many gun owning American households."
+        "description": "A very common 7.62x39 rifle, the SKS was designed to replace the Mosin Nagant bolt action rifle, while the AK-47 was meant to replace the PPSh-41.  Mechanically, it resembles a much scaled down version of USSR's PTRS-41 semi automatic anti-tank rifle.  However, due to the success of the AK-47, the SKS was replaced by it in the USSR's Red Army.  It still saw service in other militaries, mainly other socialist states that got a surplus of SKS carbines from the USSR.  Due to the amount produced, it is a commonplace rifle in many gun-owning American households."
       }
     ],
     "ascii_picture": "sks",
@@ -90,7 +90,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "AK-47 rifle" },
-    "description": "Civilian-legal clones of the AK-47, with no ability to fire full-auto.  Despite lacking that ability, they're still reliable and useful rifles, even if much rarer ammo and magazine wise than the more common AR-15 platform.",
+    "description": "A civilian-legal clone of the AK-47, with no ability to fire full-auto.  Despite lacking that ability, it's still a reliable and useful rifle, even if much rarer ammo- and magazine-wise than the more common AR-15 platform.",
     "variant_type": "gun",
     "variants": [
       {

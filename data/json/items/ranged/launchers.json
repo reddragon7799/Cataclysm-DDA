@@ -44,7 +44,7 @@
     "symbol": "/",
     "color": "light_gray",
     "name": { "str": "crude rocket launcher" },
-    "description": "An improvised, direct ignition launcher for home-made rockets.  Essentially, a thick-walled steel pipe, equipped with a pilot light, several batteries and a simple circuit board.  Effective only at medium range, barely.",
+    "description": "An improvised, direct ignition launcher for home-made rockets.  Essentially a thick-walled steel pipe equipped with a pilot light, several batteries, and a simple circuit board.  Effective only at medium range, and even then only barely.",
     "price": "50 USD",
     "material": [ "steel" ],
     "skill": "launcher",

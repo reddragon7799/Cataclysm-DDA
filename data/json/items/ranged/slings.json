@@ -63,7 +63,7 @@
     "name": { "str": "staff sling" },
     "description": "This staff can launch rocks with a whipping motion that sends them flying much further and faster than throwing them.",
     "price": "1 USD 50 cent",
-    "//": "The staff sling,consists of a staff with a short sling at one end. ",
+    "//": "The staff sling consists of a staff with a short sling at one end. ",
     "material": [ "wood", "leather" ],
     "flags": [
       "RELOAD_AND_SHOOT",

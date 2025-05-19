@@ -49,7 +49,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "belly band" },
-    "description": "A piece of clothing designed to be worn around the belly, called Haramaki in Japan.  This one is made from wool, comfortable and warm.",
+    "description": "A piece of clothing designed to be worn around the belly, called a haramaki in Japan.  This one is made from wool, comfortable and warm.",
     "weight": "150 g",
     "volume": "750 ml",
     "looks_like": "chestwrap",
@@ -293,7 +293,7 @@
       {
         "id": "binder_top_meme",
         "name": { "str": "meme binder" },
-        "description": "This one has an image of a stuffed rat chef, looking up with arms spread to the heavens, with text above reading \"I don't want to cook anymore\", and the bottom text reading \"I want to DIE\" all in a comic sans font.",
+        "description": "This one has an image of a stuffed rat chef, looking up with arms spread to the heavens, with text above reading \"I don't want to cook anymore\", and the bottom text reading \"I want to DIE\", all in a comic sans font.",
         "weight": 4,
         "append": true
       }
@@ -784,7 +784,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "garter belt" },
-    "description": "A simple, decorated undergarment commonly used in combination with stockings.  They don't cover much, but they do help you feel sexy.",
+    "description": "A simple decorated undergarment commonly used in combination with stockings.  They don't cover much, but they do help you feel sexy.",
     "weight": "80 g",
     "volume": "200 ml",
     "looks_like": "panties",
@@ -801,7 +801,7 @@
       {
         "id": "generic_garter_belt",
         "name": { "str": "garter belt" },
-        "description": "A simple, decorated undergarment commonly used in combination with stockings.  They don't cover much, but they do help you feel sexy.",
+        "description": "A simple decorated undergarment commonly used in combination with stockings.  They don't cover much, but they do help you feel sexy.",
         "color": "dark_gray",
         "append": false
       },

@@ -34,7 +34,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "P90 automatic PDW" },
-    "description": "A late 90s manufactured personal defense weapon (PDW), this automatic firearm fires the high-velocity, proprietary 5.7x28mm cartridge.  Making use of top-mounted 50-round custom magazines which lock into the receiver of the weapon behind the grip, this little submachine gun packs quite the nasty payload.  Its small, high-speed caliber makes it excellent at both defeating armored opponents and firing short bursts manageably.",
+    "description": "A personal defense weapon (PDW) manufactured in the late 90s, this automatic firearm fires the high-velocity, proprietary 5.7x28mm cartridge.  Making use of top-mounted 50-round custom magazines which lock into the receiver of the weapon behind the grip, this little submachine gun packs quite the nasty payload.  Its small, high-speed caliber makes it excellent at both defeating armored opponents and firing short bursts manageably.",
     "variant_type": "gun",
     "variants": [
       {
@@ -131,13 +131,13 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "semi-automatic P90 carbine" },
-    "description": "The civilian version of the older 5.7mm PDW, this carbine features a 16 inch long barrel, feeds from the same 50-round magazines as its predecessor, and is only capable of semi-automatic fire in order to keep it in line with American firearm restrictions.",
+    "description": "The civilian version of the older 5.7mm PDW, this carbine features a 16-inch-long barrel, feeds from the same 50-round magazines as its predecessor, and is only capable of semi-automatic fire in order to keep it in line with American firearm restrictions.",
     "variant_type": "gun",
     "variants": [
       {
         "id": "fn_ps90",
         "name": { "str": "FN PS90 carbine" },
-        "description": "Originally introduced in 2005, the PS90 is the civilian clone of the venerable FN P90, sharing much of the same characteristics and features as its fully-automatic older brother.  Chambering the same 5.7x28mm cartridge as its predecessor, in order to make it a legally distributable carbine in the eyes of the law the PS90 was manufactured to only be capable of semi-automatic fire, with a fitted-on 16-inch long barrel to sidestep NFA regulations on short-barreled rifles."
+        "description": "Originally introduced in 2005, the PS90 is the civilian clone of the venerable FN P90, sharing many of the same characteristics and features as its fully-automatic older brother.  Chambering the same 5.7x28mm cartridge as its predecessor, in order to make it a legally distributable carbine in the eyes of the law the PS90 was manufactured to only be capable of semi-automatic fire, with a fitted-on 16-inch-long barrel to sidestep NFA regulations on short-barreled rifles."
       }
     ],
     "longest_side": "670 mm",

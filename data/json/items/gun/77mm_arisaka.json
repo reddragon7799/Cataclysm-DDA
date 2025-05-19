@@ -57,7 +57,7 @@
     "subtypes": [ "GUN" ],
     "//": "The only reason this exists as its own item rather than a variant of the Type 99 is so players wouldn't be able to mount the scope on normal Type 99 rifles and could only use it on the 99 Sniper.",
     "name": { "str": "7.7mm sniper rifle" },
-    "description": "A precision weapon issued to Japanese forces part way through the Second World War and proving to be little more than an off-the-rack 7.7mm battle rifle fitted with a telescopic sight, the rifle, despite being only marginally different from its closer-range cohorts, was a formidable implement upon the battle fields of the Pacific theatre.",
+    "description": "A precision weapon issued to Japanese forces part way through the Second World War and proving to be little more than an off-the-rack 7.7mm battle rifle fitted with a telescopic sight, the rifle, despite being only marginally different from its closer-range cohorts, was a formidable implement upon the battlefields of the Pacific theatre.",
     "variant_type": "gun",
     "variants": [
       {

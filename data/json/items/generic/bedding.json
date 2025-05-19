@@ -139,7 +139,8 @@
         "id": "blanket_floral",
         "name": { "str": "floral blanket" },
         "//": "Note to self, look up if ever popular is hyphenated.  If you're seeing this tell me so I can remember to look.",
-        "description": "The ever popular floral print blanket.  This one is patterned with <flowers>.  Popular with grandmothers.",
+        "//2": "It is.",
+        "description": "The ever-popular floral print blanket.  This one is patterned with <flowers>.  Popular with grandmothers.",
         "expand_snippets": true,
         "weight": 250
       },
@@ -315,7 +316,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "sleeping bag" },
-    "description": "A large sleeping bag that covers you head to toe, with a strap for carrying it on your back when not in use.  This one is medium weight.  It is currently unrolled; activate it to roll it up for easy storage.",
+    "description": "A large sleeping bag that covers you head to toe, with a strap for carrying it on your back when not in use.  This one is medium-weight.  It is currently unrolled; activate it to roll it up for easy storage.",
     "weight": "1600 g",
     "volume": "1 L",
     "price": "205 USD",

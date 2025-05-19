@@ -4,7 +4,7 @@
     "type": "ITEM",
     "subtypes": [ "TOOL" ],
     "name": { "str": "hand press", "str_pl": "hand presses" },
-    "description": "A small hand press for hand loading firearm ammunition.  It comes with everything you need to start hand loading your own munitions.",
+    "description": "A small hand press for handloading firearm ammunition.  It comes with everything you need to start handloading your own munitions.",
     "weight": "6350 g",
     "volume": "500 ml",
     "longest_side": "30 cm",

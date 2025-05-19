@@ -5,7 +5,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "bionic shotgun" },
-    "description": "Bionic one-shot retracting shotgun integrated with your arm.",
+    "description": "A bionic one-shot retracting shotgun integrated in your arm.",
     "volume": "103 ml",
     "price": "0 cent",
     "material": [ "superalloy", "plastic" ],

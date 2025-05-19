@@ -83,7 +83,7 @@
     "copy-from": "abstract_software",
     "type": "ITEM",
     "name": { "str_sp": "archive data" },
-    "description": "Extremely compressed research data, observation and experiment statistics.  The only pattern you manage to recognize is an increase in the amount of report closer to the Cataclysm, but also a reduction in the number of facilities still submitting reports.",
+    "description": "Extremely compressed research data, observation and experiment statistics.  The only pattern you manage to recognize is an increase in the amount of reports closer to the Cataclysm, but also a reduction in the number of facilities still submitting them.",
     "price": "2 USD",
     "price_postapoc": "0 cent",
     "ememory_size": "64 MB"

@@ -43,7 +43,7 @@
     "type": "ITEM",
     "subtypes": [ "BOOK" ],
     "name": { "str_sp": "Ranch Prospectus" },
-    "description": "A short paper of the economic viability of constructing an agricultural outpost.",
+    "description": "A short paper on the economic viability of constructing an agricultural outpost.",
     "weight": "1 g",
     "volume": "250 ml",
     "price": "30 USD",

@@ -1,4 +1,4 @@
-[
+	[
   {
     "type": "ITEM",
     "id": "flyer",
@@ -150,7 +150,7 @@
     "type": "ITEM",
     "id": "lab_file_mutation_testing",
     "name": { "str_sp": "production tests" },
-    "description": "Accompanying document, that describes tests performed on different subjects.",
+    "description": "An accompanying document that describes tests performed on different subjects.",
     "expand_snippets": true,
     "variants": [
       {
@@ -167,7 +167,7 @@
     "type": "ITEM",
     "id": "lab_file_serum_testing",
     "name": { "str_sp": "production tests" },
-    "description": "Accompanying document, that describes tests performed on different subjects.",
+    "description": "An accompanying document that describes tests performed on different subjects.",
     "expand_snippets": true,
     "variants": [
       {
@@ -617,7 +617,7 @@
     "symbol": "*",
     "color": "white",
     "name": { "str": "picture" },
-    "description": "A medium picture of something that the owner wished to decorate their house with.",
+    "description": "A medium-sized picture of something that the owner wished to decorate their house with.",
     "weight": "600 g",
     "volume": "650 ml",
     "price": "0 cent",

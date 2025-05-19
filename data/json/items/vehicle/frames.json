@@ -3,7 +3,7 @@
     "type": "ITEM",
     "id": "foldframe",
     "name": { "str": "foldable light frame" },
-    "description": "A small, foldable lightweight frame made from pipework.",
+    "description": "A small, foldable, lightweight frame made from pipework.",
     "weight": "5000 g",
     "to_hit": { "grip": "solid", "length": "short", "surface": "any", "balance": "clumsy" },
     "color": "light_gray",
@@ -29,7 +29,7 @@
     "type": "ITEM",
     "id": "foldxlframe",
     "name": { "str": "foldable extra-light frame" },
-    "description": "A small, foldable lightweight frame made from aluminum.",
+    "description": "A small, foldable, lightweight frame made from aluminum.",
     "copy-from": "xlframe"
   },
   {

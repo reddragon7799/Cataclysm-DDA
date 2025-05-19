@@ -67,7 +67,7 @@
     "color": "light_gray",
     "looks_like": "art_lamp",
     "name": { "str": "engraved cube" },
-    "description": "A small cube of smooth rock.  A uniform grid of nine squares is engraved in each of its faces.",
+    "description": "A small cube of smooth rock.  A uniform grid of nine squares is engraved on each of its faces.",
     "price": "10 USD",
     "price_postapoc": "10 cent",
     "material": [ "stone" ],

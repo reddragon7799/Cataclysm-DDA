@@ -63,7 +63,7 @@
       {
         "id": "tropical_bikini_bottom",
         "name": { "str": "tropical bikini bottoms", "str_pl": "pairs of tropical bikini bottoms" },
-        "description": "They're green and has a tropical design.",
+        "description": "They're green and have a tropical design.",
         "color": "light_green",
         "weight": 5,
         "append": true
@@ -71,7 +71,7 @@
       {
         "id": "floral_bikini_bottom",
         "name": { "str": "floral bikini bottoms", "str_pl": "pairs of floral bikini bottoms" },
-        "description": "They're colored yellow and has a floral design.",
+        "description": "They're colored yellow and have a floral design.",
         "color": "yellow",
         "weight": 5,
         "append": true
@@ -79,7 +79,7 @@
       {
         "id": "camo_bikini_bottom",
         "name": { "str": "camo bikini bottoms", "str_pl": "pairs of camo bikini bottoms" },
-        "description": "They're has a camouflage pattern, perfect for a soldier on beach leave.",
+        "description": "They have a camouflage pattern, perfect for a soldier on beach leave.",
         "color": "green",
         "weight": 4,
         "append": true
