@@ -510,14 +510,8 @@
   },
   {
     "id": "holybook_leinster",
-<<<<<<< Updated upstream
-    "type": "ITEM",
-    "subtypes": [ "BOOK" ],
-    "name": { "str": "Book of Leinster", "str_pl": "copies of the Book of Leister" },
-=======
     "type": "BOOK",
     "name": { "str": "Book of Leinster", "str_pl": "copies of the Book of Leinster" },
->>>>>>> Stashed changes
     "description": "A incredibly rare English translation of the Book of Leinster, a significant and ancient compilation of Irish literature and history, dating back to the 12th century.  It contains annals, genealogies, historical texts, legal tracts, secular and religious poetry and stories from Irish mythology, such as the epic tale \"Táin Bó Cúailnge\", which tells the story of the legendary warrior Cú Chulainn and the cattle raid of Cooley.",
     "weight": "1100 g",
     "volume": "1650 ml",

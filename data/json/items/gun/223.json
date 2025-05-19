@@ -43,13 +43,8 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "AR pistol" },
-<<<<<<< Updated upstream
     "description": "The common AR-15 platform, with its stock removed and buffer tube covered by a sleeve.  AR pistols lack stocks, or have arm braces due to restrictions on short barreled rifles, and so without a stock, they're legally classified as a pistol.",
     "weight": "735 g",
-=======
-    "description": "The common AR-15 platform, with its stock removed and buffer tube covered by a sleeve.  AR pistols lack stocks, or have arm braces due to restrictions on short barreled rifles, and so, without a stock, they're legally classified as a pistol.",
-    "weight": "1043 g",
->>>>>>> Stashed changes
     "volume": "748 ml",
     "longest_side": "373 mm",
     "price": "245 USD",

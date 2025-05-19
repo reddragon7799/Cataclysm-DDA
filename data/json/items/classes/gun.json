@@ -139,13 +139,8 @@
     "name": { "str": "revolver", "//~": "NO_I18N" },
     "//proportional": { "reload": 0.7 },
     "extend": { "flags": [ "RELOAD_ONE", "RELOAD_EJECT", "NEVER_JAMS", "EASY_CLEAN" ] },
-<<<<<<< Updated upstream
-    "//": "Revolvers exclude the muzzle location preventing installation of suppressors",
-    "faults": [ { "fault": "fault_gun_blackpowder" }, { "fault": "fault_gun_dirt" } ],
-=======
     "//": "Revolvers exclude the muzzle location, preventing installation of suppressors",
     "faults": [ "fault_gun_blackpowder", "fault_gun_dirt" ],
->>>>>>> Stashed changes
     "valid_mod_locations": [
       [ "barrel", 1 ],
       [ "grip", 1 ],

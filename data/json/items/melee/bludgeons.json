@@ -201,17 +201,7 @@
     "copy-from": "mc_battleaxe",
     "type": "ITEM",
     "name": { "str": "mild steel battle axe" },
-<<<<<<< Updated upstream
-    "description": "A huge axe designed for warfare.  Made of mild steel, it's passable as a weapon, but lacking a proper grip or a razor sharp edge leaves it somewhat lacking.",
-=======
-    "description": "A huge axe designed for warfare.  Made of mild steel, it's passable as a weapon, but the lack of a proper grip or a razor-sharp edge leaves it somewhat lacking.",
-    "weight": "2002 g",
-    "volume": "2500 ml",
-    "longest_side": "100 cm",
-    "price": "400 USD",
-    "price_postapoc": "120 USD",
-    "to_hit": { "grip": "bad", "length": "long", "surface": "line", "balance": "uneven" },
->>>>>>> Stashed changes
+    "description": "A huge axe designed for warfare.  Made of mild steel, it's passable as a weapon, but the lack a proper grip or a razor-sharp edge leaves it somewhat lacking.",
     "material": [ "lc_steel", "wood" ],
     "relative": { "melee_damage": { "cut": -4 } }
   },
@@ -699,15 +689,7 @@
     "id": "hammer_sledge_short",
     "copy-from": "hammer_sledge",
     "name": { "str": "short sledge hammer" },
-<<<<<<< Updated upstream
-    "description": "A sledge hammer with a notably shorter handle.  This makes it worse as a melee weapon, but a more portable tool.",
-=======
     "description": "A sledge hammer with a notably shorter handle.  This makes it a worse melee weapon, but a more portable tool.",
-    "weight": "4000 g",
-    "color": "brown",
-    "symbol": "/",
-    "material": [ "wood", "steel" ],
->>>>>>> Stashed changes
     "looks_like": "hammer_sledge",
     "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALLOWS_BODY_BLOCK" ],
     "faults": [ { "fault_group": "handle_short" } ],
@@ -745,21 +727,7 @@
     "id": "hammer_sledge_heavy",
     "copy-from": "hammer_sledge",
     "name": { "str": "heavy sledge hammer" },
-<<<<<<< Updated upstream
-    "description": "A large sledge hammer with a massive, heavy head.  This unwieldy tool is meant to break concrete, rock, brick, anything really.",
-=======
     "description": "A large sledge hammer with a massive, heavy head.  This unwieldy tool is meant to break concrete, rock, brick - anything, really.",
-    "weight": "9500 g",
-    "color": "brown",
-    "symbol": "/",
-    "material": [ "wood", "steel" ],
-    "looks_like": "hammer_sledge",
-    "flags": [ "DURABLE_MELEE", "NONCONDUCTIVE", "ALWAYS_TWOHAND" ],
-    "weapon_category": [ "GREAT_HAMMERS" ],
-    "techniques": [ "WBLOCK_1", "BRUTAL" ],
-    "volume": "1700 ml",
-    "longest_side": "100 cm",
->>>>>>> Stashed changes
     "to_hit": { "grip": "weapon", "length": "long", "surface": "any", "balance": "clumsy" },
     "proportional": { "price_postapoc": 2, "price": 2 },
     "relative": { "melee_damage": { "bash": 30 }, "weight": "5250 g", "volume": "450 ml", "longest_side": "20 cm" }

@@ -50,27 +50,16 @@
   {
     "id": "glock_29mag",
     "looks_like": "glock17_17",
-<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "name": { "str": "Glock 10mm 10-round carry magazine" },
     "description": "A stubby steel and polymer magazine for use with the compact Glock pistol.  It is too short to insert into most other 10mm Glock pattern magwells.",
-=======
-    "type": "MAGAZINE",
-    "name": { "str": "Glock 10mm 10-round magazine" },
-    "description": "A stubby steel and polymer magazine for use with the compact Glock pistol.  It is too short to insert into most other 10mm Glock-pattern magwells.",
->>>>>>> Stashed changes
     "variant_type": "gun",
     "variants": [
       {
         "id": "glock_29mag",
-<<<<<<< Updated upstream
         "name": { "str": "Glock 29 10-round magazine" },
         "description": "A stubby steel and polymer magazine for use with the Glock 29.  It is too short to insert into most other 10mm Glock pattern magwells."
-=======
-        "name": { "str": "Glock 10mm 10-round magazine" },
-        "description": "A stubby steel and polymer magazine for use with the Glock 29.  It is too short to insert into most other 10mm Glock-pattern magwells."
->>>>>>> Stashed changes
       }
     ],
     "weight": "90 g",

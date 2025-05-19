@@ -1733,7 +1733,7 @@
       {
         "id": "purple_white_varsity_jacket",
         "name": { "str": "Wizards varsity jacket" },
-        "description": "This one has a purple torso with white arms.  It has an angry looking old wizard on its back, holding its staff menacingly; below it is written \"WIZARDS\".",
+        "description": "This one has a purple torso with white arms.  It has an angry looking old wizard on its back, holding their staff menacingly; below it is written \"WIZARDS\".",
         "color": "magenta",
         "weight": 10,
         "append": true
@@ -1765,13 +1765,8 @@
       {
         "id": "black_red_varsity_jacket",
         "name": { "str": "Crimson Bulls varsity jacket" },
-<<<<<<< Updated upstream
-        "description": "This one's torso is black and its arms are red.  It has an angry looking red bull ready to charge on its back.  Across the front writes \"BULLS\".",
-        "color": "dark_gray",
-=======
         "description": "This one's torso is black and its arms are red.  It has an angry-looking red bull ready to charge on its back.  Across the front is written \"BULLS\".",
         "color": "black",
->>>>>>> Stashed changes
         "weight": 10,
         "append": true
       },
