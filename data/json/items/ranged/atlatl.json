@@ -40,16 +40,10 @@
   },
   {
     "id": "steel_atlatl_spear",
-<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
-    "name": { "str": "steel tipped atlatl spear" },
-    "description": "A steal tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
-=======
-    "type": "AMMO",
     "name": { "str": "steel-tipped atlatl spear" },
-    "description": "A steel-tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
->>>>>>> Stashed changes
+    "description": "A steel-tipped, fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
     "weight": "280 g",
     "volume": "600 ml",
     "price": "10 USD",
@@ -68,16 +62,10 @@
   },
   {
     "id": "bronze_atlatl_spear",
-<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "AMMO" ],
-    "name": { "str": "bronze tipped atlatl spear" },
-    "description": "A bronze tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
-=======
-    "type": "AMMO",
     "name": { "str": "bronze-tipped atlatl spear" },
-    "description": "A bronze-tipped and fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
->>>>>>> Stashed changes
+    "description": "A bronze-tipped, fletched atlatl spear, ready to throw with an atlatl.  Not suitable for close combat.",
     "weight": "280 g",
     "volume": "600 ml",
     "price": "10 USD",

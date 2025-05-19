@@ -207,13 +207,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str_sp": ".357 revolver" },
-<<<<<<< Updated upstream
     "description": "A revolver chambered in .357, with a 6 inch barrel and 6 shots.",
-=======
-    "description": "A revolver chambered in .357, with a 6-inch barrel and 6 shots.",
-    "symbol": "(",
-    "color": "light_gray",
->>>>>>> Stashed changes
     "looks_like": "sw_619",
     "price": "1 kUSD 800 USD",
     "price_postapoc": "80 USD",

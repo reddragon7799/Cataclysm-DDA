@@ -203,7 +203,7 @@
         "max_contains_volume": "2 L",
         "max_contains_weight": "2 kg",
         "moves": 250,
-        "description": "Pocket for a face shield or a front night vision attachment.",
+        "description": "Pocket for a face shield or a frontal night vision attachment.",
         "flag_restriction": [ "HELMET_FACE_SHIELD", "HELMET_FRONT_ATTACHMENT" ],
         "inherits_flags": false
       },
@@ -379,7 +379,7 @@
         "max_contains_volume": "2 L",
         "max_contains_weight": "2 kg",
         "moves": 250,
-        "description": "Pocket for a front night vision attachment.",
+        "description": "Pocket for a frontal night vision attachment.",
         "flag_restriction": [ "HELMET_FRONT_ATTACHMENT" ],
         "inherits_flags": false
       }
@@ -428,7 +428,7 @@
         "max_contains_volume": "2 L",
         "max_contains_weight": "2 kg",
         "moves": 250,
-        "description": "Pocket for a face shield or a front night vision attachment.",
+        "description": "Pocket for a face shield or a frontal night vision attachment.",
         "flag_restriction": [ "HELMET_FACE_SHIELD", "HELMET_FRONT_ATTACHMENT" ],
         "inherits_flags": false
       },
@@ -3106,7 +3106,7 @@
         "max_contains_volume": "2 L",
         "max_contains_weight": "2 kg",
         "moves": 250,
-        "description": "Pocket for a face shield, or a front night vision attachment.",
+        "description": "Pocket for a face shield or a frontal night vision attachment.",
         "flag_restriction": [ "HELMET_FACE_SHIELD", "HELMET_FRONT_ATTACHMENT" ],
         "inherits_flags": false
       },

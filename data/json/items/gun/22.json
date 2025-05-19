@@ -419,11 +419,7 @@
       {
         "id": "rossi_gallery",
         "name": { "str": "Rossi Gallery", "str_pl": "Rossi Galleries" },
-<<<<<<< Updated upstream
         "description": "A modern take on the Winchester 1890, the Rossi Gallery is a .22 LR rifle, notably using a pump action.  Much like a pump action shotgun, the magazine tube is below its 18 inch barrel and can hold 15 rounds.  While pump actions are quite often associated with shotguns, the mechanism can be applied to rifles as well, though in practice it's limited to .22 LR."
-=======
-        "description": "A modern take on the Winchester 1890, the Rossi Gallery is a .22 LR rifle, notably using a pump action.  Much like a pump action shotgun, the magazine tube is below its 18-inch barrel and can hold 15 rounds.  While pump actions are quite often associated with shotguns, the mechanism can be applied to rifles as well, though in practice it's limited to .22 LR."
->>>>>>> Stashed changes
       }
     ],
     "weight": "2344 g",
@@ -485,12 +481,7 @@
     "type": "ITEM",
     "subtypes": [ "GUN" ],
     "name": { "str": "large .22 six-shooter" },
-<<<<<<< Updated upstream
     "description": "A revolver chambered in .22 LR, with 6 shots and a 9 inch barrel.",
-=======
-    "description": "A revolver chambered in .22 LR, with 6 shots and a 9-inch barrel.",
-    "ascii_picture": "redhawk",
->>>>>>> Stashed changes
     "weight": "1046 g",
     "volume": "456 ml",
     "longest_side": "386 mm",

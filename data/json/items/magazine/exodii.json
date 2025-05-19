@@ -236,14 +236,9 @@
     "capacity": 4,
     "count": 4,
     "name": { "str": "ordnance cannon adhesive canister" },
-<<<<<<< Updated upstream
     "type": "ITEM",
     "subtypes": [ "MAGAZINE" ],
     "description": "A pressurized tank containing one of the special payloads the Exodii made for their ordnance cannon, an industrial grade chemical that adheres to anything it touches and hardens into a concrete-like resin.  Invented on some alternate Earth for quickly fixing holes in zeppelin and high-altitude craft, the Exodii found the substance useful for area denial, cover creation, or encasing nasty things in when they couldn't be bothered to waste bullets on them.",
-=======
-    "type": "MAGAZINE",
-    "description": "A pressurized tank containing one of the special payloads the Exodii made for their ordnance cannon, an industrial-grade chemical that adheres to anything it touches and hardens into a concrete-like resin.  Invented on some alternate Earth for quickly fixing holes in zeppelin and high-altitude craft, the Exodii found the substance useful for area denial, cover creation, or encasing nasty things in when they couldn't be bothered to waste bullets on them.",
->>>>>>> Stashed changes
     "variant_type": "gun",
     "variants": [
       {

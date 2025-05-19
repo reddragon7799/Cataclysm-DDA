@@ -258,7 +258,7 @@
     "type": "ITEM",
     "subtypes": [ "ARMOR" ],
     "name": { "str": "nylon holster" },
-    "description": "A holster made from nylon, rather than leather.  A bit stronger and lighter, but not as fashionable.  Activate to draw/holster a gun.",
+    "description": "A holster made from nylon rather than leather.  A bit stronger and lighter, but not as fashionable.  Activate to draw/holster a gun.",
     "weight": "200 g",
     "volume": "500 ml",
     "price": "9 USD",
